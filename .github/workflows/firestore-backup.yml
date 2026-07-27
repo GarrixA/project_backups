@@ -33,7 +33,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Skip if filtered to another project
         id: gate
@@ -48,14 +48,14 @@ jobs:
 
       - name: Setup Node.js
         if: steps.gate.outputs.skip != 'true'
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
-          node-version: 24.x
-          cache: npm
+          node-version: 24
+          cache: yarn
 
       - name: Install dependencies
         if: steps.gate.outputs.skip != 'true'
-        run: npm install
+        run: yarn install --frozen-lockfile
 
       # Map matrix.slug → project secrets (GitHub cannot do secrets[dynamic_name]).
       # When adding a project: add secrets + a new elif branch below + matrix slug above.
@@ -121,7 +121,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Delete oldest half per project folder
         run: PRUNE_ALL=1 bash .github/scripts/prune-backups.sh

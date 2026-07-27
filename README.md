@@ -57,10 +57,10 @@ Then uncomment the `pharmacy-prod` lines in `.github/workflows/firestore-backup.
 ## Local test
 
 ```bash
-npm install
+yarn install
 export FIREBASE_PROJECT_ID=…
 export FIREBASE_CLIENT_EMAIL=…
 export FIREBASE_PRIVATE_KEY=…
 export BACKUP_PROJECT_SLUG=golden-k-tech-dev
-npm run backup
+yarn backup
 ```
