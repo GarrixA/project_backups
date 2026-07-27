@@ -1,0 +1,14 @@
+{
+  "name": "project-backups",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Scheduled Firestore backups for GBMA / Golden K projects",
+  "type": "module",
+  "scripts": {
+    "backup": "node .github/scripts/backup-firestore.mjs",
+    "backup:prune": "bash .github/scripts/prune-backups.sh"
+  },
+  "dependencies": {
+    "firebase-admin": "^13.10.0"
+  }
+}

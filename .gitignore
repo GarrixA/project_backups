@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+.env
+.env.*
+*.pem
+firebase-service-account.json
+*-firebase-adminsdk-*.json
+service-account*.json
+*secret*
+*private-key*

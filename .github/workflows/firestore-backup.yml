@@ -1,0 +1,139 @@
+name: Firestore Multi-Project Backup
+
+on:
+  schedule:
+    - cron: "42 12 * * *" # Every day at 12:42 PM GMT — create backups
+    - cron: "0 6 * * 1" # Every Monday at 6 AM UTC — prune oldest half per folder
+  workflow_dispatch:
+    inputs:
+      run_prune:
+        description: "Also delete the oldest half of backups (per project folder)"
+        type: boolean
+        default: false
+      project:
+        description: "Backup only this project slug (blank = all matrix projects)"
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  backup:
+    if: >
+      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'schedule' && github.event.schedule != '0 6 * * 1')
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        slug:
+          - golden-k-tech-dev
+          # - pharmacy-prod
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Skip if filtered to another project
+        id: gate
+        run: |
+          FILTER="${{ github.event.inputs.project }}"
+          if [ -n "$FILTER" ] && [ "$FILTER" != "${{ matrix.slug }}" ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "Skipping ${{ matrix.slug }} (filter=$FILTER)"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Setup Node.js
+        if: steps.gate.outputs.skip != 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24.x
+          cache: npm
+
+      - name: Install dependencies
+        if: steps.gate.outputs.skip != 'true'
+        run: npm install
+
+      # Map matrix.slug → project secrets (GitHub cannot do secrets[dynamic_name]).
+      # When adding a project: add secrets + a new elif branch below + matrix slug above.
+      - name: Dump Firestore (${{ matrix.slug }})
+        if: steps.gate.outputs.skip != 'true'
+        env:
+          SLUG: ${{ matrix.slug }}
+          GOLDEN_K_FIREBASE_PROJECT_ID: ${{ secrets.GOLDEN_K_FIREBASE_PROJECT_ID }}
+          GOLDEN_K_FIREBASE_CLIENT_EMAIL: ${{ secrets.GOLDEN_K_FIREBASE_CLIENT_EMAIL }}
+          GOLDEN_K_FIREBASE_PRIVATE_KEY: ${{ secrets.GOLDEN_K_FIREBASE_PRIVATE_KEY }}
+          # PHARMACY_FIREBASE_PROJECT_ID: ${{ secrets.PHARMACY_FIREBASE_PROJECT_ID }}
+          # PHARMACY_FIREBASE_CLIENT_EMAIL: ${{ secrets.PHARMACY_FIREBASE_CLIENT_EMAIL }}
+          # PHARMACY_FIREBASE_PRIVATE_KEY: ${{ secrets.PHARMACY_FIREBASE_PRIVATE_KEY }}
+        run: |
+          case "$SLUG" in
+            golden-k-tech-dev)
+              export FIREBASE_PROJECT_ID="$GOLDEN_K_FIREBASE_PROJECT_ID"
+              export FIREBASE_CLIENT_EMAIL="$GOLDEN_K_FIREBASE_CLIENT_EMAIL"
+              export FIREBASE_PRIVATE_KEY="$GOLDEN_K_FIREBASE_PRIVATE_KEY"
+              ;;
+            # pharmacy-prod)
+            #   export FIREBASE_PROJECT_ID="$PHARMACY_FIREBASE_PROJECT_ID"
+            #   export FIREBASE_CLIENT_EMAIL="$PHARMACY_FIREBASE_CLIENT_EMAIL"
+            #   export FIREBASE_PRIVATE_KEY="$PHARMACY_FIREBASE_PRIVATE_KEY"
+            #   ;;
+            *)
+              echo "Unknown project slug: $SLUG"
+              exit 1
+              ;;
+          esac
+
+          if [ -z "$FIREBASE_PROJECT_ID" ] || [ -z "$FIREBASE_CLIENT_EMAIL" ] || [ -z "$FIREBASE_PRIVATE_KEY" ]; then
+            echo "Missing secrets for $SLUG. Add them in Settings → Secrets → Actions."
+            exit 1
+          fi
+
+          export BACKUP_PROJECT_SLUG="$SLUG"
+          mkdir -p "backups/$SLUG"
+          node .github/scripts/backup-firestore.mjs
+
+      - name: Commit and push backup
+        if: steps.gate.outputs.skip != 'true'
+        env:
+          HUSKY: "0"
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add "backups/${{ matrix.slug }}/"
+          git commit -m "Backup ${{ matrix.slug }}: $(date -u +%F-%H-%M)" || echo "No changes to commit"
+          git pull --rebase --autostash
+          git push
+
+  prune:
+    needs: [backup]
+    if: >
+      always() &&
+      !cancelled() &&
+      (github.event.schedule == '0 6 * * 1' ||
+       (github.event_name == 'workflow_dispatch' && inputs.run_prune)) &&
+      (needs.backup.result == 'success' || needs.backup.result == 'skipped')
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Delete oldest half per project folder
+        run: PRUNE_ALL=1 bash .github/scripts/prune-backups.sh
+
+      - name: Commit and push prune
+        env:
+          HUSKY: "0"
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add -A backups/
+          git commit -m "Prune oldest half of backups: $(date -u +%F-%H-%M)" || echo "No changes to commit"
+          git pull --rebase --autostash
+          git push
