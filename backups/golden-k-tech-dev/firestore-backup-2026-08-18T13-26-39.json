@@ -1,0 +1,4067 @@
+{
+  "exportedAt": "2026-08-18T13:26:39.301Z",
+  "projectId": "golden-k-tech-dev",
+  "projectSlug": "golden-k-tech-dev",
+  "totalDocuments": 125,
+  "collections": {
+    "brands": {
+      "count": 10,
+      "documents": {
+        "6WASDLZrfEoKkVGpKhZa": {
+          "brand_name": "LENOVO",
+          "brand_image": "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1782296249/golden_k_images/brands/f8whpce0pwydaeztoqza.png",
+          "brand_description": "Lenovo is a global technology company renowned for designing and manufacturing innovative laptops, desktop computers, tablets, workstations, and smart devices",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-24T10:17:32.454Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-24T10:17:32.454Z"
+          }
+        },
+        "HXSIirT2uJ8gMXkTF049": {
+          "brand_image": "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785337213/golden_k_images/brands/qkvrbq6axqqzddaizlap.jpg",
+          "brand_description": "Generic Smart Watch",
+          "brand_name": "z93",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-29T15:00:15.371Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-29T15:00:15.371Z"
+          }
+        },
+        "O5J2JUeFJLAWrd78X6b6": {
+          "brand_name": "Microsoft Surface",
+          "brand_image": "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786356998/golden_k_images/brands/bt5kzhq0n2ucx6r1y5qi.png",
+          "brand_description": "Microsoft Surface Original Products",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-10T10:16:40.883Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-10T10:16:40.883Z"
+          }
+        },
+        "TkYdHnUkveEh2pgmbURc": {
+          "brand_name": "JBL",
+          "brand_image": "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786551614/golden_k_images/brands/uoqbnicp5wlrjvivo4tu.png",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-12T16:20:22.999Z"
+          },
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-12T16:21:09.845Z"
+          },
+          "brand_description": "JBL Original Devices"
+        },
+        "a7b8c9d0-e1f2-4345-a678-9abcdef0123456": {
+          "id": "a7b8c9d0-e1f2-4345-a678-9abcdef0123456",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-02T20:31:27.939Z"
+          },
+          "brand_image": "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1782292291/golden_k_images/brands/a7b8c9d0-e1f2-4345-a678-9abcdef0123456/yf8bilsxsdscwbrru4ex.png",
+          "brand_description": "world-leading technology company that develops innovative software and  devices",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-24T10:18:43.574Z"
+          },
+          "brand_name": "Microsoft Devices"
+        },
+        "b8c9d0e1-f2a3-4456-b789-abcdef01234567": {
+          "brand_description": "Business and consumer laptops and desktops.",
+          "brand_name": "Dell",
+          "id": "b8c9d0e1-f2a3-4456-b789-abcdef01234567",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-02T20:31:27.939Z"
+          },
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-24T08:51:04.009Z"
+          },
+          "brand_image": "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1782291059/golden_k_images/brands/b8c9d0e1-f2a3-4456-b789-abcdef01234567/io023ty1oo5ekqgpamlz.jpg"
+        },
+        "c9d0e1f2-a3b4-4567-c890-bcdef012345678": {
+          "brand_description": "Pixel phones and smart home devices.",
+          "brand_name": "Google",
+          "id": "c9d0e1f2-a3b4-4567-c890-bcdef012345678",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-02T20:31:27.939Z"
+          },
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-24T08:58:26.327Z"
+          },
+          "brand_image": "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1782291502/golden_k_images/brands/c9d0e1f2-a3b4-4567-c890-bcdef012345678/dqec9dpu0m11mxreebjn.png"
+        },
+        "e5f6a7b8-c9d0-4123-e456-789abcdef0123": {
+          "brand_description": "Premium phones, laptops, tablets, and wearables.",
+          "brand_name": "Apple",
+          "id": "e5f6a7b8-c9d0-4123-e456-789abcdef0123",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-02T20:31:27.939Z"
+          },
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-22T10:10:25.999Z"
+          },
+          "brand_image": "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1782123023/golden_k_images/brands/e5f6a7b8-c9d0-4123-e456-789abcdef0123/dbszk8za0ftrdbjwzgmz.png"
+        },
+        "f6a7b8c9-d0e1-4234-f567-89abcdef01234": {
+          "brand_description": "Galaxy phones, tablets, and smartwatches.",
+          "brand_name": "Samsung",
+          "id": "f6a7b8c9-d0e1-4234-f567-89abcdef01234",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-02T20:31:27.939Z"
+          },
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-24T09:17:42.254Z"
+          },
+          "brand_image": "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1782292659/golden_k_images/brands/f6a7b8c9-d0e1-4234-f567-89abcdef01234/fpv3c24tcocjngcvgsih.png"
+        },
+        "xSDrHOn7giAc3SbWooqV": {
+          "brand_image": "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1782295840/golden_k_images/brands/fecpqolz1zygyb5st8mg.png",
+          "brand_description": "HP is a leading technology brand known for producing reliable laptops, desktop computers and printers",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-24T10:10:47.402Z"
+          },
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-24T10:11:02.195Z"
+          },
+          "brand_name": "HP"
+        }
+      }
+    },
+    "categories": {
+      "count": 14,
+      "documents": {
+        "4Eo2Cn8WjUyJMmQngmte": {
+          "category_name": "Microphones",
+          "category_image": "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786370430/golden_k_images/categories/yzfvafnczvip2zdqfxpc.png",
+          "category_description": "Microphones for Contents Creators",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-10T14:00:33.818Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-10T14:00:33.818Z"
+          }
+        },
+        "KYVMQGFG09vLLva1sebe": {
+          "category_name": "Computer Accessories",
+          "category_image": "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786195526/golden_k_images/categories/rct8f516hj7a1zlwtccy.png",
+          "category_description": "Computer accessories",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-08T13:25:30.222Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-08T13:25:30.222Z"
+          }
+        },
+        "LIcqTjZ4qXBzDVVJyWqy": {
+          "category_name": "Printers",
+          "category_image": "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786195815/golden_k_images/categories/a6qg9x5mcpjwckm8ien3.png",
+          "category_description": "",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-08T13:30:18.037Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-08T13:30:18.037Z"
+          }
+        },
+        "OINhyiD7ygOyBzbvvoRz": {
+          "category_name": "Ipads",
+          "category_image": "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785224192/golden_k_images/categories/jkcdaqvxejbzzyxr91sf.png",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-28T07:36:34.927Z"
+          },
+          "category_description": "Ipads",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-29T14:24:45.897Z"
+          }
+        },
+        "SAr8UZclm26eQawLbgaG": {
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-24T09:21:55.130Z"
+          },
+          "category_image": "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1782374409/golden_k_images/categories/SAr8UZclm26eQawLbgaG/rfjd2uchmrhzgzv7tkg6.png",
+          "category_description": "Category for MAC Computers",
+          "category_name": "Macbooks",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-31T16:04:55.649Z"
+          }
+        },
+        "a1b2c3d4-e5f6-4789-a012-3456789abcde": {
+          "category_description": "Ultrabooks, gaming laptops, and professional notebooks.",
+          "id": "a1b2c3d4-e5f6-4789-a012-3456789abcde",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-02T20:31:27.540Z"
+          },
+          "category_name": "Windows Laptops",
+          "category_image": "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786194794/golden_k_images/categories/a1b2c3d4-e5f6-4789-a012-3456789abcde/cegsjhwu8bj6q5kqtk0o.png",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-08T13:13:18.429Z"
+          }
+        },
+        "b2c3d4e5-f6a7-4890-b123-456789abcdef0": {
+          "id": "b2c3d4e5-f6a7-4890-b123-456789abcdef0",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-02T20:31:27.540Z"
+          },
+          "category_description": "Looking for quality tech accessories?  ✅ Laptop Chargers ✅ Wireless & USB Mouse ✅ Keyboards  ✅ USB Flash Drives ✅ External Hard Drives ✅ HDMI & VGA Cables ✅ Laptop Bags",
+          "category_name": "Phone Accessories",
+          "category_image": "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786195044/golden_k_images/categories/b2c3d4e5-f6a7-4890-b123-456789abcdef0/yxhnqehxhcejz1o0vyxk.png",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-08T13:17:28.099Z"
+          }
+        },
+        "c3d4e5f6-a7b8-4901-c234-56789abcdef01": {
+          "category_description": "Productivity and entertainment tablets.",
+          "category_name": "Tablets",
+          "id": "c3d4e5f6-a7b8-4901-c234-56789abcdef01",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-02T20:31:27.540Z"
+          },
+          "category_image": "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786195190/golden_k_images/categories/c3d4e5f6-a7b8-4901-c234-56789abcdef01/gpibgsa9cjj4o9qglkx8.png",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-08T13:19:55.795Z"
+          }
+        },
+        "d4e5f6a7-b8c9-4012-d345-6789abcdef012": {
+          "category_description": "Fitness trackers and connected watches.",
+          "category_name": "Smartwatches",
+          "id": "d4e5f6a7-b8c9-4012-d345-6789abcdef012",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-02T20:31:27.540Z"
+          },
+          "category_image": "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1782385444/golden_k_images/categories/d4e5f6a7-b8c9-4012-d345-6789abcdef012/ho1yo94l2ip1dd7pe99h.png",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-25T11:04:37.450Z"
+          }
+        },
+        "fnZ49chcwn5WxbIV5g01": {
+          "category_name": "Speakers",
+          "category_image": "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786195936/golden_k_images/categories/p36n1f7pwrs6wpomkdv5.png",
+          "category_description": "",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-08T13:32:18.903Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-08T13:32:18.903Z"
+          }
+        },
+        "kHh8VobAwewMP6bz5RdO": {
+          "category_name": "I mac & Apple TVs",
+          "category_image": "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786195686/golden_k_images/categories/afrvucsn980alaecx9kz.png",
+          "category_description": "",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-08T13:28:08.633Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-08T13:28:08.633Z"
+          }
+        },
+        "qV8ErFFu1qE5rCmfL0oB": {
+          "id": "qV8ErFFu1qE5rCmfL0oB",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-02T20:31:27.540Z"
+          },
+          "category_description": "Category for Apple iPhones and premium smartphones.",
+          "category_image": "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1782374508/golden_k_images/categories/qV8ErFFu1qE5rCmfL0oB/pe6jwvuobbsk5rmhbka4.png",
+          "category_name": "I Phones",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-31T16:15:08.760Z"
+          }
+        },
+        "rNlgigBx9RrsN66gYUBg": {
+          "category_name": "Headsets",
+          "category_image": "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786551211/golden_k_images/categories/e8819yfw5vzedvva7zjs.jpg",
+          "category_description": "Headsets",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-12T16:13:33.729Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-12T16:13:33.729Z"
+          }
+        },
+        "ycd6cr4qD0sP9vIjukzG": {
+          "category_image": "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785494582/golden_k_images/categories/z2trgjonwwreyf9kfnla.png",
+          "category_description": "Explore smartphones from Samsung, Sony, Google Pixel and Apple iPhone, offering reliable performance, advanced cameras and modern technology.",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-31T10:43:04.368Z"
+          },
+          "category_name": "Android Smartphones",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-31T16:13:29.012Z"
+          }
+        }
+      }
+    },
+    "checkout_otps": {
+      "count": 12,
+      "documents": {
+        "0c425646417395da7b5f0b78e5a8cbd3b81344a035afce9c6c644402b6e827c0": {
+          "email": "aphrogarrix10@gmail.com",
+          "code_hash": "65924592c5839d3a150015925ad18848ba7b26b721a9108d9c8d8633953207c9",
+          "expires_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-18T07:43:50.022Z"
+          },
+          "verify_attempts": 0,
+          "last_sent_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-18T07:33:50.200Z"
+          },
+          "verified_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-18T07:34:25.284Z"
+          }
+        },
+        "2897cd620f5a43299bb67601991199a40165138743307c60f67fec0d1244eb48": {
+          "email": "rutangag@gmail.com",
+          "code_hash": "bd2c9d62ce3903b52e80c264069090ceea36fdeda013822ce48547497a55e242",
+          "expires_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-22T11:31:58.002Z"
+          },
+          "verify_attempts": 0,
+          "last_sent_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-22T11:21:58.059Z"
+          },
+          "verified_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-22T11:22:16.683Z"
+          }
+        },
+        "2bc032b8d6829f3b12ca55748af2af8b303b185400e1c25c46bbd291e1c187b7": {
+          "email": "cnurukundo@gmail.com",
+          "code_hash": "c9724e27ebaa427c953ac974322e5297864fbd0b6e3897564475a54352162790",
+          "expires_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-03T20:05:38.732Z"
+          },
+          "verify_attempts": 0,
+          "last_sent_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-03T19:55:38.827Z"
+          },
+          "verified_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-03T19:55:51.863Z"
+          }
+        },
+        "488e2d047707eec855ced935268affb3c90e5258aa1f99a7a5c8279a74c0e91f": {
+          "email": "garriixme@gmail.com",
+          "code_hash": "d5434362f7e56ee9bfbd27afbfaef2de0c3a2fb8506e1a02964e4df319bf3e72",
+          "expires_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-03T16:42:14.853Z"
+          },
+          "verify_attempts": 0,
+          "verified_at": null,
+          "last_sent_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-03T16:32:15.931Z"
+          }
+        },
+        "4a147f772a37254c415cf47dbb9e17b8610ac7b9dbe7625ca5bbc6ad8dc5cc04": {
+          "code_hash": "9bf90fb940e2abeab1e6b2378789847debfe7a17c28c38a0f2fadb2a50e1b709",
+          "verify_attempts": 0,
+          "email": "nelom58953@matkind.com",
+          "expires_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-01T19:58:01.075Z"
+          },
+          "last_sent_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-01T19:48:02.363Z"
+          },
+          "verified_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-01T19:48:22.175Z"
+          }
+        },
+        "704020dc2ddd136021a7603a93644b5e9e37d1ecfc14e4b1c701750860c3c351": {
+          "email": "akimanimpayejeanbosco1993@gmail.com",
+          "code_hash": "e8aa0fb17a4b8a156056dd1a745a14eed2e8ea98bfb1ab494034d3a707452fe2",
+          "expires_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-23T21:01:05.040Z"
+          },
+          "verify_attempts": 0,
+          "last_sent_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-23T20:51:05.196Z"
+          },
+          "verified_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-23T20:51:37.359Z"
+          }
+        },
+        "7369c15ec89f4b509228cd4b9029e7d09d639de394e2858105eefb7f4be36ca3": {
+          "email": "aphrogarrix10+10@gmail.com",
+          "code_hash": "e6bb04ca86882842f7a0f530d9da8e2715a7073205db728ee5db22d5960ff734",
+          "expires_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-19T08:47:40.307Z"
+          },
+          "verify_attempts": 0,
+          "last_sent_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-19T08:37:40.387Z"
+          },
+          "verified_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-19T08:38:03.819Z"
+          }
+        },
+        "8021e2858a8170f20b2bbb10f0d60d8835fdba6561804e12b3e8c76687c626c9": {
+          "email": "garrixme@gmail.com",
+          "code_hash": "ae552e24995eae64429cb0884f494c9c037a34ec0183f9fffd5f77ca11b4182d",
+          "expires_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-04T18:51:11.733Z"
+          },
+          "verify_attempts": 0,
+          "last_sent_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-04T18:41:12.058Z"
+          },
+          "verified_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-04T18:41:34.146Z"
+          }
+        },
+        "aaca3e815a0e86809cf3ea00a9823d3ba19683011b694d5caf8ab68753428eb7": {
+          "email": "aphrodis.uwineza1@gmail.com",
+          "code_hash": "f5e1fffbed4494326b9ca8e71dd5274bfbf5fa8fa703af5b111d58500b240360",
+          "expires_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-03T16:33:55.238Z"
+          },
+          "verify_attempts": 0,
+          "verified_at": null,
+          "last_sent_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-03T16:23:56.316Z"
+          }
+        },
+        "bc873b21aa51e7ad2a8711032a8c77f9e7604449c5953b851c1274ae1bdf306f": {
+          "email": "kohib41906@matkind.com",
+          "expires_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-01T19:45:15.007Z"
+          },
+          "verify_attempts": 0,
+          "code_hash": "8a8366b45c2476276349b81627f77a77a4b60cef0763ded24694fe75f2e3c811",
+          "last_sent_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-01T19:35:15.472Z"
+          },
+          "verified_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-01T19:35:51.772Z"
+          }
+        },
+        "ed9079b69e1b04b1164926c80b16bc00a5f212ed57551b5a612d0b176dab7e67": {
+          "email": "muhirwadieudonne1@gmail.com",
+          "code_hash": "edc960fe2e992d1dbd0cfd38ec68f555463d28b38026a3dc1a1323b0deb88f4f",
+          "expires_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-19T10:46:22.829Z"
+          },
+          "verify_attempts": 0,
+          "last_sent_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-19T10:36:22.881Z"
+          },
+          "verified_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-19T10:37:54.140Z"
+          }
+        },
+        "ede49c270a3b508a6263f5eba6b946de39205c2d00fd4fb33cd3878a5bb5e7bf": {
+          "email": "tsindamedia@gmail.com",
+          "code_hash": "39f4465210e8c2aa26c34d0794beb2c03029543424b3b37e53b71895fbf61411",
+          "expires_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-13T12:19:10.472Z"
+          },
+          "verify_attempts": 0,
+          "verified_at": null,
+          "last_sent_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-13T12:09:10.515Z"
+          }
+        }
+      }
+    },
+    "deals": {
+      "count": 1,
+      "documents": {
+        "PzPFYbegyIUrUVdT8idv": {
+          "deal_name": "Special Deal",
+          "discount_percent": 10,
+          "start_at": "2026-06-18T17:28:00.000Z",
+          "end_at": "2026-07-01T17:28:00.000Z",
+          "created_by": "P9ILcED80MVDWIu9R053QqvUbWJ2",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-17T17:28:38.344Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-17T17:28:38.344Z"
+          }
+        }
+      }
+    },
+    "hero_slides": {
+      "count": 2,
+      "documents": {
+        "VgSiDsAkVMyJly8FDVTU": {
+          "eyebrow": "Arrived",
+          "headline": "MacBook Air M1 13-inch",
+          "promo_line": "Shop New Arrivals",
+          "product_id": "3Z2lmliMWdcInq30e8BA",
+          "is_active": true,
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-28T08:02:26.500Z"
+          },
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-30T13:36:30.955Z"
+          },
+          "image_src": "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785418588/golden_k_images/hero/VgSiDsAkVMyJly8FDVTU/jits9qrscrgaekc0s6bd.png"
+        },
+        "sXCpbR2z0oh0PkQJRcQw": {
+          "eyebrow": "Amazing!!",
+          "headline": "Ipad PRO M5 13Inch 256GB",
+          "promo_line": "Only @Golden K Technology",
+          "product_id": "BMydTSF0RcEFiRteTSvh",
+          "is_active": true,
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-28T07:48:28.138Z"
+          },
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-31T09:13:23.113Z"
+          },
+          "image_src": "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785489200/golden_k_images/hero/sXCpbR2z0oh0PkQJRcQw/tzebt0adalpoiqzofts4.png"
+        }
+      }
+    },
+    "messages": {
+      "count": 2,
+      "documents": {
+        "Bq3iERWtgkmsjjX1skwH": {
+          "name": "Aphrodis Garrick",
+          "email": "garrixt2019@gmail.com",
+          "subject": "Product Question",
+          "body": "Let's check how it looks",
+          "user_id": "",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-17T19:24:57.064Z"
+          },
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-17T19:36:03.190Z"
+          },
+          "replied_at": "2026-06-17T19:36:02.706Z",
+          "reply": "Yes",
+          "status": "replied"
+        },
+        "SgfYg26Xe4RfJ7o392Dw": {
+          "name": "Aphrodis Garrix",
+          "email": "aphrogarrix10@gmail.com",
+          "subject": "Technical Support",
+          "body": "I need support",
+          "user_id": "",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-17T19:36:34.458Z"
+          },
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-17T19:37:30.331Z"
+          },
+          "replied_at": "2026-06-17T19:37:29.863Z",
+          "reply": "Alright",
+          "status": "replied"
+        }
+      }
+    },
+    "orders": {
+      "count": 17,
+      "documents": {
+        "8erAqkwGj07mMyDskKta": {
+          "buyer_id": "yc6NluPyZFOC4MUDrsAurf3of5l2",
+          "buyer_email": "garrixme@gmail.com",
+          "store_id": "wnJferdDlL61pf10zZcp",
+          "product_ids": [
+            "55DK80lwZWsmiQtkjG8w"
+          ],
+          "total_amount": 100,
+          "payment_operation_id": "c2a28f07-7fe9-42f0-ad61-11b4620bfad9",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-03T17:18:51.593Z"
+          },
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-03T17:51:19.969Z"
+          },
+          "status": "confirmed"
+        },
+        "BOJ9CR8m6OpjvvQrKgl5": {
+          "buyer_id": "OugTX3ny0cbXScLgLQp0bso0Yyo1",
+          "buyer_email": "aphrogarrix10+1@gmail.com",
+          "store_id": "wnJferdDlL61pf10zZcp",
+          "product_ids": [
+            "55DK80lwZWsmiQtkjG8w"
+          ],
+          "total_amount": 100,
+          "payment_operation_id": "ORDER-e0051f9f-11af-48f0-80b9-56e5448a54ea",
+          "payment_method": "momo",
+          "payment_phone": "250789438437",
+          "checkout_as": "logged_in",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-11T13:20:16.826Z"
+          },
+          "status": "confirmed",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-19T19:21:41.595Z"
+          },
+          "shipping_status": "shipped"
+        },
+        "FlxyoxuyrnKnqZ9GALM4": {
+          "buyer_id": "ojCFep4jMRRflhskNJJTOcq6nyM2",
+          "buyer_email": "henav7971@okcpress.com",
+          "store_id": "wnJferdDlL61pf10zZcp",
+          "product_ids": [
+            "55DK80lwZWsmiQtkjG8w"
+          ],
+          "total_amount": 100,
+          "status": "pending",
+          "payment_operation_id": "030f2efc-562e-4c29-aed1-4064c96ca94f",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-04T09:21:30.788Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-04T09:21:30.788Z"
+          }
+        },
+        "HGE8O29iOLCCHWmLRQAj": {
+          "buyer_id": "",
+          "buyer_email": "cnurukundo@gmail.com",
+          "store_id": "wnJferdDlL61pf10zZcp",
+          "product_ids": [
+            "55DK80lwZWsmiQtkjG8w"
+          ],
+          "total_amount": 100,
+          "status": "pending",
+          "payment_operation_id": "20fdee0c-79cd-474d-b52d-43d697ffde14",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-03T19:55:04.911Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-03T19:55:04.911Z"
+          }
+        },
+        "Ha19fL1UMPz19BHyfPQr": {
+          "buyer_id": "ojCFep4jMRRflhskNJJTOcq6nyM2",
+          "buyer_email": "henav7971@okcpress.com",
+          "store_id": "wnJferdDlL61pf10zZcp",
+          "product_ids": [
+            "55DK80lwZWsmiQtkjG8w"
+          ],
+          "total_amount": 100,
+          "status": "pending",
+          "payment_operation_id": "60ab3609-257a-40e7-a8bd-127f04e5319f",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-04T09:15:29.185Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-04T09:15:29.185Z"
+          }
+        },
+        "OAQZfCafl6xM1uh1vmSV": {
+          "buyer_id": "",
+          "buyer_email": "garrixme@gmail.com",
+          "store_id": "wnJferdDlL61pf10zZcp",
+          "product_ids": [
+            "55DK80lwZWsmiQtkjG8w"
+          ],
+          "total_amount": 100,
+          "status": "pending",
+          "payment_operation_id": "4db547d7-90b3-4bb0-8884-fcf479ce773d",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-03T17:09:56.858Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-03T17:09:56.858Z"
+          }
+        },
+        "VNWOqOC87FPLDy0aM30h": {
+          "buyer_id": "ojCFep4jMRRflhskNJJTOcq6nyM2",
+          "buyer_email": "henav7971@okcpress.com",
+          "store_id": "wnJferdDlL61pf10zZcp",
+          "product_ids": [
+            "f2a3b4c5-d6e7-4890-1234-56789abcde03"
+          ],
+          "total_amount": 1300000,
+          "payment_operation_id": "ORDER-c7d7188f-1c6b-4765-813d-5f042d57f8a4",
+          "payment_method": "momo",
+          "payment_phone": "250789438437",
+          "checkout_as": "logged_in",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-09T20:21:32.119Z"
+          },
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-09T20:23:32.412Z"
+          },
+          "status": "confirmed"
+        },
+        "bMliJ2pYlaCuoqrf5o0s": {
+          "buyer_email": "henav7971@okcpress.com",
+          "payment_operation_id": "3a58c98b-d80d-43ba-afcf-f01e8a3f80c9",
+          "product_ids": [
+            "55DK80lwZWsmiQtkjG8w"
+          ],
+          "status": "confirmed",
+          "total_amount": 100,
+          "store_id": "wnJferdDlL61pf10zZcp",
+          "buyer_id": "ojCFep4jMRRflhskNJJTOcq6nyM2",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-02T20:09:38.349Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-02T20:09:38.349Z"
+          }
+        },
+        "bdVmgM50V0OpQAzbCszt": {
+          "buyer_id": "P9ILcED80MVDWIu9R053QqvUbWJ2",
+          "buyer_email": "admin@goldenktechnologie.com",
+          "store_id": "wnJferdDlL61pf10zZcp",
+          "product_ids": [
+            "55DK80lwZWsmiQtkjG8w"
+          ],
+          "total_amount": 100,
+          "payment_operation_id": "ORDER-6e99ddce-e2c8-4d45-8e83-b881853f103e",
+          "payment_method": "momo",
+          "payment_phone": "250789438437",
+          "checkout_as": "logged_in",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-11T11:20:07.208Z"
+          },
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-11T11:21:33.032Z"
+          },
+          "status": "confirmed"
+        },
+        "eICnaXphARTayJE52pMZ": {
+          "buyer_id": "",
+          "buyer_email": "aphrogarrix10+10@gmail.com",
+          "store_id": "wnJferdDlL61pf10zZcp",
+          "product_ids": [
+            "55DK80lwZWsmiQtkjG8w"
+          ],
+          "total_amount": 120,
+          "status": "pending",
+          "payment_operation_id": "ORDER-070c4e07-71b7-4acf-9d00-3f3d2491be29",
+          "payment_method": "momo",
+          "payment_phone": "250789438437",
+          "checkout_as": "guest",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-19T08:38:44.971Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-19T08:38:44.971Z"
+          }
+        },
+        "hGyhOnhsdDDywuS6Zsyn": {
+          "buyer_id": "OugTX3ny0cbXScLgLQp0bso0Yyo1",
+          "buyer_email": "aphrogarrix10+1@gmail.com",
+          "store_id": "wnJferdDlL61pf10zZcp",
+          "product_ids": [
+            "55DK80lwZWsmiQtkjG8w",
+            "55DK80lwZWsmiQtkjG8w"
+          ],
+          "total_amount": 200,
+          "payment_operation_id": "ORDER-e85514de-d6d0-4a5f-8cae-bef42593a09b",
+          "payment_method": "momo",
+          "payment_phone": "250788317844",
+          "checkout_as": "logged_in",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-16T10:09:02.590Z"
+          },
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-16T10:13:14.592Z"
+          },
+          "status": "confirmed"
+        },
+        "hqXnFe3YGPWvp0VhxsDX": {
+          "buyer_id": "ojCFep4jMRRflhskNJJTOcq6nyM2",
+          "buyer_email": "henav7971@okcpress.com",
+          "store_id": "wnJferdDlL61pf10zZcp",
+          "product_ids": [
+            "55DK80lwZWsmiQtkjG8w"
+          ],
+          "total_amount": 100,
+          "status": "pending",
+          "payment_operation_id": "ad6e2029-eec8-4e04-b913-84913fe981da",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-04T09:46:04.634Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-04T09:46:04.634Z"
+          }
+        },
+        "jrkczoPOccDpCs7M9wXC": {
+          "buyer_id": "ojCFep4jMRRflhskNJJTOcq6nyM2",
+          "buyer_email": "henav7971@okcpress.com",
+          "store_id": "wnJferdDlL61pf10zZcp",
+          "product_ids": [
+            "55DK80lwZWsmiQtkjG8w"
+          ],
+          "total_amount": 100,
+          "status": "pending",
+          "payment_operation_id": "c671db0b-fe21-4522-930a-92bcd8ba2ea0",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-04T09:07:52.795Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-04T09:07:52.795Z"
+          }
+        },
+        "lnyuP24dXJAZpjrIL6Ur": {
+          "buyer_id": "ojCFep4jMRRflhskNJJTOcq6nyM2",
+          "buyer_email": "henav7971@okcpress.com",
+          "store_id": "wnJferdDlL61pf10zZcp",
+          "product_ids": [
+            "55DK80lwZWsmiQtkjG8w"
+          ],
+          "total_amount": 100,
+          "status": "pending",
+          "payment_operation_id": "13fbcf12-f54d-4d8e-bf4e-05143f679b81",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-04T09:36:26.614Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-04T09:36:26.614Z"
+          }
+        },
+        "nZpdq5yV7kGI2hI8sNHo": {
+          "buyer_id": "",
+          "buyer_email": "muhirwadieudonne1@gmail.com",
+          "store_id": "wnJferdDlL61pf10zZcp",
+          "product_ids": [
+            "f0a1b2c3-d4e5-4678-9012-3456789abc01"
+          ],
+          "total_amount": 130,
+          "payment_operation_id": "ORDER-3130a05d-e1ba-415d-98d2-c4d090262e92",
+          "payment_method": "momo",
+          "payment_phone": "250788208090",
+          "checkout_as": "guest",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-19T10:40:10.453Z"
+          },
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-19T10:43:28.321Z"
+          },
+          "status": "confirmed"
+        },
+        "vOJti7S6E9DJYxkPOQIW": {
+          "buyer_id": "P9ILcED80MVDWIu9R053QqvUbWJ2",
+          "buyer_email": "admin@goldenktechnologie.com",
+          "store_id": "wnJferdDlL61pf10zZcp",
+          "product_ids": [
+            "55DK80lwZWsmiQtkjG8w"
+          ],
+          "total_amount": 100,
+          "payment_operation_id": "ORDER-84442229-fa35-4faa-a26e-a83a186549ba",
+          "payment_method": "momo",
+          "payment_phone": "250789438437",
+          "checkout_as": "logged_in",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-17T18:31:36.341Z"
+          },
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-17T18:32:24.859Z"
+          },
+          "status": "confirmed"
+        },
+        "ynbG4sw3bRk61zCZAkDd": {
+          "buyer_id": "P9ILcED80MVDWIu9R053QqvUbWJ2",
+          "buyer_email": "admin@goldenktechnologie.com",
+          "store_id": "wnJferdDlL61pf10zZcp",
+          "product_ids": [
+            "55DK80lwZWsmiQtkjG8w"
+          ],
+          "total_amount": 100,
+          "status": "pending",
+          "payment_operation_id": "ORDER-6f3af2a0-5971-4560-b801-6b6e1c69858e",
+          "payment_method": "momo",
+          "payment_phone": "250789438437",
+          "checkout_as": "logged_in",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-11T11:23:27.556Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-11T11:23:27.556Z"
+          }
+        }
+      }
+    },
+    "product_option_templates": {
+      "count": 7,
+      "documents": {
+        "2Apc7ZL3zFrWCv61rTvO": {
+          "option_type": "specification",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-20T08:43:32.840Z"
+          },
+          "name": "HP EliteBook G5 i7 specifications",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-20T09:54:52.949Z"
+          },
+          "rows": [
+            {
+              "description": "<p>Intel Core i7-8650U (8th Generation)</p>",
+              "type": "Processor (CPU)"
+            },
+            {
+              "description": "<p>Up to 16GB DDR4-2400 (2 SODIMM slots, upgradable)</p>",
+              "type": "Memory (RAM)"
+            },
+            {
+              "description": "<p>Intel UHD Graphics 620</p>",
+              "type": "Graphics (GPU)"
+            },
+            {
+              "description": "<p>Up to 512 GB PCIe NVMe M.2 SSD</p>",
+              "type": "Storage"
+            },
+            {
+              "description": "<p>14-inch diagonal. Options include: <br>- HD (1366x768) <br>- FHD (1920x1080) IPS, Touch &amp; Non-Touch <br>- 4K UHD (3840x2160)</p>",
+              "type": "Display"
+            }
+          ]
+        },
+        "9FoyKdzbk5sV8rUOWvt4": {
+          "option_type": "specification",
+          "name": "iPhone 16 specifiications",
+          "rows": [
+            {
+              "type": "Display",
+              "description": "14.2\" Liquid Retina XDR, 120Hz ProMotion"
+            },
+            {
+              "type": "Processor",
+              "description": "Apple M3 Pro (11-core CPU)"
+            },
+            {
+              "type": "Gpu",
+              "description": "14-core GPU"
+            },
+            {
+              "type": "Ram",
+              "description": "18GB Unified Memory"
+            },
+            {
+              "type": "Storage",
+              "description": "512GB SSD"
+            },
+            {
+              "type": "Battery",
+              "description": "Up to 18 hours"
+            },
+            {
+              "type": "Ports",
+              "description": "3x Thunderbolt 4, HDMI, SDXC, MagSafe 3, 3.5mm"
+            },
+            {
+              "type": "Os",
+              "description": "macOS Sonoma"
+            }
+          ],
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-01T18:10:17.425Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-01T18:10:17.425Z"
+          }
+        },
+        "COKGXkXBjboG8AmmIY7B": {
+          "name": "POPULAR HP SPECS",
+          "rows": [
+            {
+              "description": "<p>Intel Core i5</p>",
+              "type": "Processor-cpu"
+            },
+            {
+              "description": "<p>8GB DDR4</p>",
+              "type": "RAM"
+            },
+            {
+              "description": "<p>256GB SSD NVMe (Upgradeable)</p>",
+              "type": "Storage"
+            },
+            {
+              "description": "<p>Windows 11 Pro</p>",
+              "type": "OS"
+            }
+          ],
+          "option_type": "specification",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-20T10:00:25.947Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-20T10:00:25.947Z"
+          }
+        },
+        "FMn4Q8ZzgwXl7onbvllk": {
+          "option_type": "feature",
+          "name": "iPhone feature",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-01T17:13:51.932Z"
+          },
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-01T17:26:53.057Z"
+          },
+          "items": [
+            {
+              "icon": "iconamoon:delivery-fill",
+              "description": "Free delivery"
+            },
+            {
+              "icon": "streamline-flex:warranty-badge-highlight-solid",
+              "description": "Free 1 Year Warranty"
+            },
+            {
+              "icon": "solar:money-bag-linear",
+              "description": "100% Money-back guarantee"
+            },
+            {
+              "icon": "material-symbols:support-agent",
+              "description": "24/7 Customer support"
+            },
+            {
+              "icon": "hugeicons:payment-01",
+              "description": "Secure payment method"
+            }
+          ]
+        },
+        "HwAXtl8UfTUfbryNGO9q": {
+          "name": "Laptop shinging Info",
+          "option_type": "shipping_information",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-20T08:32:16.454Z"
+          },
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-20T08:42:04.109Z"
+          },
+          "blocks": [
+            {
+              "title": "Local shipping",
+              "content_html": "<p>Less Than 24 Hours</p>"
+            },
+            {
+              "content_html": "<p>Less Than Two weeks</p>",
+              "title": "Global shipping"
+            }
+          ]
+        },
+        "g4dqXbI8QTnKELNmqbga": {
+          "option_type": "feature",
+          "name": "Golden k Features",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-29T13:41:52.522Z"
+          },
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-29T14:06:44.718Z"
+          },
+          "items": [
+            {
+              "icon": "streamline-flex:warranty-badge-highlight-solid",
+              "description": "Quality Tested & Verified"
+            },
+            {
+              "icon": "streamline-flex:warranty-badge-highlight-solid",
+              "description": "Warranty Included"
+            },
+            {
+              "icon": "iconamoon:delivery-fill",
+              "description": "Fast & Reliable Delivery"
+            },
+            {
+              "icon": "hugeicons:payment-01",
+              "description": "Secure Payment Methods"
+            },
+            {
+              "icon": "material-symbols:support-agent",
+              "description": "Expert After-Sales Support"
+            },
+            {
+              "icon": "solar:money-bag-linear",
+              "description": "Easy Returns & Exchanges"
+            }
+          ]
+        },
+        "sb95WIFxS0YrXufk55PU": {
+          "option_type": "additional_information",
+          "name": "iPhone Additional informations",
+          "rows": [
+            {
+              "type": "Color",
+              "description": "Space Black, Silver"
+            },
+            {
+              "type": "Warranty",
+              "description": "12 months manufacturer warranty"
+            },
+            {
+              "type": "Return policy",
+              "description": "14-day return window"
+            },
+            {
+              "type": "Weight (grams)",
+              "description": "1,610"
+            },
+            {
+              "type": "Box contents",
+              "description": "MacBook Pro 14\", 70W USB-C adapter, USB-C to MagSafe 3 cable"
+            },
+            {
+              "type": "Storage",
+              "description": "512GB, 1TB, 2TB"
+            }
+          ],
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-01T17:33:44.774Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-01T17:33:44.774Z"
+          }
+        }
+      }
+    },
+    "products": {
+      "count": 39,
+      "documents": {
+        "0kJFXal7RGEnhdWKqc1z": {
+          "product_name": "Microsoft Surface Laptop – Core i7, 16GB RAM, 512GB SSD",
+          "product_title": "Microsoft Surface Laptop – Core i7, 16GB RAM, 512GB SSD",
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786358609/golden_k_images/products/dvngxtr13ktlfitce0m8.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786358611/golden_k_images/products/u406aknmkgri6bnyaxrj.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786358612/golden_k_images/products/a3ofutffkhkinuktmdto.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786358614/golden_k_images/products/epuqjfwwxvde6b0jc25g.jpg"
+          ],
+          "price": 700000,
+          "quantity": 1,
+          "brand_id": "O5J2JUeFJLAWrd78X6b6",
+          "category_id": "a1b2c3d4-e5f6-4789-a012-3456789abcde",
+          "colors": [],
+          "additional_info_option_id": "",
+          "specification_option_id": "",
+          "additional_info": [],
+          "specification": [],
+          "pricing_options": {
+            "variants": [
+              {
+                "id": "0bd3904a-56b8-4daa-9da3-6dd9fe6e2e20",
+                "style": "",
+                "capacity": "16 GB",
+                "storage": "512 GB SSD",
+                "cpu_type": "i7",
+                "cores": null,
+                "condition_status": "refurbished",
+                "condition_message": "",
+                "color_name": "",
+                "color_code": "",
+                "price": 700000
+              }
+            ]
+          },
+          "availability": "in_stock",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "deal_name": "",
+          "deal_start_at": "",
+          "deal_end_at": "",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-10T10:43:37.262Z"
+          },
+          "shipping_information": [
+            {
+              "type": "Local shipping",
+              "description": "<p>Less Than 24 Hours</p>"
+            },
+            {
+              "type": "Global shipping",
+              "description": "<p>Less Than Two weeks</p>"
+            }
+          ],
+          "feature": [
+            {
+              "description": "Quality Tested & Verified",
+              "icon": "streamline-flex:warranty-badge-highlight-solid"
+            },
+            {
+              "icon": "streamline-flex:warranty-badge-highlight-solid",
+              "description": "Warranty Included"
+            },
+            {
+              "description": "Fast & Reliable Delivery",
+              "icon": "iconamoon:delivery-fill"
+            },
+            {
+              "icon": "hugeicons:payment-01",
+              "description": "Secure Payment Methods"
+            },
+            {
+              "description": "Expert After-Sales Support",
+              "icon": "material-symbols:support-agent"
+            },
+            {
+              "description": "Easy Returns & Exchanges",
+              "icon": "solar:money-bag-linear"
+            }
+          ],
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-10T10:44:18.878Z"
+          },
+          "is_published": true,
+          "shipping_option_id": "HwAXtl8UfTUfbryNGO9q",
+          "feature_option_id": "g4dqXbI8QTnKELNmqbga",
+          "product_description": "<p>The Microsoft Surface Laptop combines a premium lightweight design with reliable everyday performance. It features a Intel Core i7 processor, 16GB RAM, a fast 512GB SSD and a sharp 13.5-inch PixelSense touchscreen—ideal for office work, study, browsing and entertainment.</p>"
+        },
+        "2rQ4DY3bZj4Wh459z0fU": {
+          "product_name": "iPad Pro 2nd Gen, 11-inch – 256GB – Silver",
+          "product_title": "iPad Pro 2nd Gen, 11-inch – 256GB – Silver",
+          "product_description": "<p>The iPad Pro 2nd Gen 11-inch combines the powerful A12Z Bionic chip, a smooth 120Hz ProMotion Liquid Retina display, professional dual cameras with LiDAR, Face ID, SIM Slot and 256GB storage in a slim Silver aluminum design.</p>",
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786361401/golden_k_images/products/sy9ekf4hsf5cvsrqgzsa.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786361402/golden_k_images/products/yhhxlwwuiaqdbjvrie87.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786361404/golden_k_images/products/x9budnogdmfvzjaestji.jpg"
+          ],
+          "price": 1200000,
+          "quantity": 1,
+          "brand_id": "e5f6a7b8-c9d0-4123-e456-789abcdef0123",
+          "category_id": "OINhyiD7ygOyBzbvvoRz",
+          "is_published": true,
+          "colors": [
+            {
+              "color_name": "Silver",
+              "color_code": "#f0f0f0"
+            }
+          ],
+          "feature_option_id": "",
+          "shipping_option_id": "",
+          "additional_info_option_id": "",
+          "specification_option_id": "",
+          "feature": [],
+          "shipping_information": [],
+          "additional_info": [],
+          "specification": [],
+          "pricing_options": {
+            "variants": [
+              {
+                "id": "a1301ad5-b99b-42aa-8e4b-30c4bdcc83c5",
+                "style": "",
+                "capacity": "",
+                "storage": "256 GB SSD",
+                "cpu_type": "",
+                "cores": null,
+                "condition_status": "used",
+                "condition_message": "",
+                "color_name": "Silver",
+                "color_code": "#f0f0f0",
+                "price": 1200000
+              }
+            ]
+          },
+          "availability": "in_stock",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "deal_name": "",
+          "deal_start_at": "",
+          "deal_end_at": "",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-10T11:30:06.889Z"
+          },
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-10T11:30:47.403Z"
+          }
+        },
+        "3Z2lmliMWdcInq30e8BA": {
+          "feature": [],
+          "deal_end_at": "",
+          "additional_info": [],
+          "is_published": true,
+          "feature_option_id": "",
+          "additional_info_option_id": "",
+          "specification": [],
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "deal_start_at": "",
+          "availability": "in_stock",
+          "price": 850000,
+          "specification_option_id": "",
+          "quantity": 1,
+          "brand_id": "e5f6a7b8-c9d0-4123-e456-789abcdef0123",
+          "deal_name": "",
+          "colors": [],
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-20T14:03:12.188Z"
+          },
+          "product_description": "<p>The Apple MacBook Air M1 delivers fast, quiet and energy-efficient performance with its Apple M1 8 core processor, 8GB unified memory and 256GB SSD. Its sharp 13.3-inch Retina display, lightweight Gold aluminium design and all-day battery life make it ideal for work, studies, entertainment and everyday use. Supplied in very good refurbished condition.</p>",
+          "product_name": "MacBook Air M1 13-inch – 8GB RAM, 256GB SSD, Gold – Very Good Refurbished",
+          "product_title": "MacBook Air M1 13-inch – 8GB RAM, 256GB SSD, Gold – Very Good Refurbished",
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785417343/golden_k_images/products/3Z2lmliMWdcInq30e8BA/jcfcd26pwvit06yvvhqk.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785417344/golden_k_images/products/3Z2lmliMWdcInq30e8BA/lwoe5iag1csan7pqwvqj.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785417346/golden_k_images/products/3Z2lmliMWdcInq30e8BA/d6mksaphvyfw8prks31v.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785417348/golden_k_images/products/3Z2lmliMWdcInq30e8BA/qexht24wvwwsifr2bmnv.jpg"
+          ],
+          "shipping_information": [
+            {
+              "type": "Local shipping",
+              "description": "<p>Less Than 24 Hours</p>"
+            },
+            {
+              "type": "Global shipping",
+              "description": "<p>Less Than Two weeks</p>"
+            }
+          ],
+          "shipping_option_id": "HwAXtl8UfTUfbryNGO9q",
+          "category_id": "SAr8UZclm26eQawLbgaG",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-03T10:43:51.408Z"
+          }
+        },
+        "4cgDHqGrF1NpKiCtosdY": {
+          "deal_end_at": "",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "availability": "in_stock",
+          "deal_start_at": "",
+          "additional_info": [],
+          "brand_id": "xSDrHOn7giAc3SbWooqV",
+          "product_name": "HP ProBook 440 G7 14 Notebook",
+          "feature_option_id": "",
+          "quantity": 1,
+          "deal_name": "",
+          "category_id": "a1b2c3d4-e5f6-4789-a012-3456789abcde",
+          "additional_info_option_id": "",
+          "is_published": true,
+          "price": 550000,
+          "product_title": "HP ProBook 440 G7 14 Notebook",
+          "feature": [],
+          "colors": [
+            {
+              "color_code": "#c9c9c9",
+              "color_name": "Silver"
+            }
+          ],
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-20T08:16:30.027Z"
+          },
+          "product_description": "<h2><strong>HP ProBook 440 G7 14 Notebook</strong></h2><ul><li><p>Optional 10th Gen quad-core Intel® Core<strong>TM</strong> processors<strong>1,2</strong></p></li><li><p>14.0” diagonal optional FHD UWVA, Optional Touch and Sure View privacy screen<strong>8</strong></p></li><li><p>0.71\" thin<strong>14</strong></p></li><li><p><strong>SSD 256 GB</strong></p></li><li><p><strong>RAM 8 GB</strong></p></li></ul><p></p>",
+          "shipping_option_id": "HwAXtl8UfTUfbryNGO9q",
+          "shipping_information": [
+            {
+              "type": "Local shipping",
+              "description": "<p>Less Than 24 Hours</p>"
+            },
+            {
+              "type": "Global shipping",
+              "description": "<p>Less Than Two weeks</p>"
+            }
+          ],
+          "specification_option_id": "g5gNg4UXvdD7ZmaZKhyR",
+          "specification": [
+            {
+              "type": "SSD Storage",
+              "description": "<p>256</p>"
+            },
+            {
+              "type": "RAM Memory",
+              "description": "<p>8GB</p>"
+            }
+          ],
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785488360/golden_k_images/products/4cgDHqGrF1NpKiCtosdY/xkqiqw6etgxyfcqjzysw.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785488361/golden_k_images/products/4cgDHqGrF1NpKiCtosdY/sjgtwfn4qifzgetpparc.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785488363/golden_k_images/products/4cgDHqGrF1NpKiCtosdY/vgxk9qj3kjir7cqtvuf4.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785488364/golden_k_images/products/4cgDHqGrF1NpKiCtosdY/jcseaganokxvn4puufsg.jpg"
+          ],
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-31T08:59:27.815Z"
+          }
+        },
+        "7z0J1o8LkAVIbd4gLbu4": {
+          "product_name": "JBL Charge 5 Portable Waterproof Bluetooth Speaker",
+          "product_title": "JBL Charge 5 Portable Waterproof Bluetooth Speaker",
+          "product_description": "<p>The JBL Charge 5 is a powerful portable Bluetooth speaker delivering 40W JBL Original Pro Sound through an optimised long-excursion driver, separate tweeter and dual bass radiators. It offers up to 20 hours of playback, IP67 waterproof and dustproof protection, PartyBoost connectivity and a built-in powerbank for charging mobile devices.</p>",
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786553236/golden_k_images/products/htuanlcbyquuu00jl9go.jpg"
+          ],
+          "price": 350000,
+          "quantity": 1,
+          "brand_id": "TkYdHnUkveEh2pgmbURc",
+          "category_id": "fnZ49chcwn5WxbIV5g01",
+          "is_published": true,
+          "colors": [],
+          "feature_option_id": "",
+          "shipping_option_id": "",
+          "additional_info_option_id": "",
+          "specification_option_id": "",
+          "feature": [],
+          "shipping_information": [],
+          "additional_info": [],
+          "specification": [],
+          "availability": "in_stock",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "deal_name": "",
+          "deal_start_at": "",
+          "deal_end_at": "",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-12T16:47:19.634Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-12T16:47:19.634Z"
+          }
+        },
+        "9s6wHpcCDQbW2ILom1w8": {
+          "product_description": "<p>The 2021 Apple MacBook Pro 16-inch delivers exceptional professional performance with the powerful M1 Pro chip, 16GB unified memory and a fast 512GB SSD. Its outstanding 16.2-inch Liquid Retina XDR display, 16-core GPU, advanced media engine and long battery life make it ideal for video editing, graphic design, programming, music production and demanding professional workloads.</p>",
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785752295/golden_k_images/products/asdm3lsd8idmzffsycya.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785752297/golden_k_images/products/hodply5scyrgj07obutr.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785752298/golden_k_images/products/j7bb3iewzw4gfmtx0s6f.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785752299/golden_k_images/products/k3t2unabd1cv75c5xfpt.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785752300/golden_k_images/products/robeenogyd6uzdejk6ec.jpg"
+          ],
+          "price": 1700000,
+          "brand_id": "e5f6a7b8-c9d0-4123-e456-789abcdef0123",
+          "category_id": "SAr8UZclm26eQawLbgaG",
+          "is_published": true,
+          "colors": [],
+          "additional_info_option_id": "",
+          "specification_option_id": "",
+          "additional_info": [],
+          "specification": [],
+          "availability": "in_stock",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "deal_name": "",
+          "deal_start_at": "",
+          "deal_end_at": "",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-03T10:18:22.427Z"
+          },
+          "product_title": "MacBook Pro M1 16-inch (2021) – Pro Chip, 16GB Memory, 512GB SSD – Silver",
+          "shipping_information": [
+            {
+              "type": "Local shipping",
+              "description": "<p>Less Than 24 Hours</p>"
+            },
+            {
+              "type": "Global shipping",
+              "description": "<p>Less Than Two weeks</p>"
+            }
+          ],
+          "feature": [
+            {
+              "description": "Quality Tested & Verified",
+              "icon": "streamline-flex:warranty-badge-highlight-solid"
+            },
+            {
+              "icon": "streamline-flex:warranty-badge-highlight-solid",
+              "description": "Warranty Included"
+            },
+            {
+              "icon": "iconamoon:delivery-fill",
+              "description": "Fast & Reliable Delivery"
+            },
+            {
+              "icon": "hugeicons:payment-01",
+              "description": "Secure Payment Methods"
+            },
+            {
+              "icon": "material-symbols:support-agent",
+              "description": "Expert After-Sales Support"
+            },
+            {
+              "icon": "solar:money-bag-linear",
+              "description": "Easy Returns & Exchanges"
+            }
+          ],
+          "shipping_option_id": "HwAXtl8UfTUfbryNGO9q",
+          "feature_option_id": "g4dqXbI8QTnKELNmqbga",
+          "product_name": "MacBook Pro M1 (2021) 16-inch – Pro Chip, 16GB Memory, 512GB SSD – Silver",
+          "pricing_options": {
+            "variants": [
+              {
+                "id": "47797d4a-32ac-477e-915a-411c31d51cf2",
+                "style": "",
+                "capacity": "16 GB",
+                "storage": "512 GB SSD",
+                "cpu_type": "",
+                "cores": null,
+                "condition_status": "refurbished",
+                "condition_message": "Refurbished and in Good Condition",
+                "color_name": "",
+                "color_code": "",
+                "price": 1700000
+              }
+            ]
+          },
+          "quantity": 1,
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-05T12:32:26.413Z"
+          }
+        },
+        "BMydTSF0RcEFiRteTSvh": {
+          "colors": [
+            {
+              "color_code": "#706b6b",
+              "color_name": "Space Gray"
+            }
+          ],
+          "additional_info_option_id": "",
+          "feature": [],
+          "deal_end_at": "",
+          "quantity": 3,
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785224240/golden_k_images/products/panzujyitikmvou8s2u5.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785224242/golden_k_images/products/uhrkywfxjw1mqzigixhj.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785224243/golden_k_images/products/yvc5zqa5qkplsg9virey.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785224244/golden_k_images/products/zaopbyh7gapg0jayx0y1.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785224246/golden_k_images/products/tmuwzsaeimhsrgic9mo4.jpg"
+          ],
+          "specification": [],
+          "shipping_information": [],
+          "shipping_option_id": "",
+          "availability": "in_stock",
+          "product_title": "IPAD PRO M5 13\"",
+          "deal_name": "",
+          "feature_option_id": "",
+          "price": 2500000,
+          "product_name": "IPAD PRO M5 13\"",
+          "pricing_options": {
+            "variants": [
+              {
+                "id": "9b98819c-6837-422d-8c5a-c7527a828ebb",
+                "cores": null,
+                "capacity": "",
+                "cpu_type": "",
+                "price": 2500000,
+                "storage": "256 GB SSD",
+                "style": "ipad PRO M5",
+                "color_name": "Space Gray",
+                "color_code": "#706b6b",
+                "condition_status": "new",
+                "condition_message": ""
+              }
+            ]
+          },
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "brand_id": "e5f6a7b8-c9d0-4123-e456-789abcdef0123",
+          "additional_info": [],
+          "product_description": "<p><strong>Apple iPad Pro 13-inch (M5) Wi‑Fi + Cellular – 256GB, 12GB Unified Memory, Space Black</strong></p><p>The Apple iPad Pro 13-inch with the powerful M5 chip features a stunning Ultra Retina XDR Tandem OLED display, 12GB unified memory, 256GB storage, Wi‑Fi 7, 5G cellular connectivity through eSIM, Face ID and all-day battery life. It supports Magic Keyboard, Apple Pencil Pro and Apple Pencil (USB‑C), making it ideal for professional work, graphic design, entertainment and productivity.</p>",
+          "specification_option_id": "",
+          "deal_start_at": "",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-28T07:37:27.893Z"
+          },
+          "is_published": true,
+          "category_id": "OINhyiD7ygOyBzbvvoRz",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-31T09:01:30.721Z"
+          }
+        },
+        "CxuZ12eGyBTn1eL0zoHe": {
+          "product_name": "JBL Tune 530BT Wireless On-Ear Headphones – Black",
+          "product_title": "JBL Tune 530BT Wireless On-Ear Headphones – Black",
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786550859/golden_k_images/products/agxuvoummvfoimmvtmp8.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786550861/golden_k_images/products/nglaehjskdrylfcctyi4.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786550862/golden_k_images/products/satf0rmpzkemkmel1uuy.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786550863/golden_k_images/products/ttlbgxpiezie8q3xikw9.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786550865/golden_k_images/products/pvfl9yktkvllihuvqaj7.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786550866/golden_k_images/products/f2pyrs5ql3qttmbvwnqu.jpg"
+          ],
+          "price": 140000,
+          "quantity": 1,
+          "colors": [
+            {
+              "color_name": "Black",
+              "color_code": "#000000"
+            },
+            {
+              "color_name": "Puple",
+              "color_code": "#432d76"
+            }
+          ],
+          "feature_option_id": "",
+          "shipping_option_id": "",
+          "additional_info_option_id": "",
+          "specification_option_id": "",
+          "feature": [],
+          "shipping_information": [],
+          "additional_info": [],
+          "specification": [],
+          "pricing_options": {
+            "variants": [
+              {
+                "id": "3fa8c291-47f9-48c5-b328-b4015a805c81",
+                "style": "",
+                "capacity": "",
+                "storage": "",
+                "cpu_type": "",
+                "cores": null,
+                "condition_status": "new",
+                "condition_message": "",
+                "color_name": "Black",
+                "color_code": "#000000",
+                "price": 140000
+              },
+              {
+                "id": "03b3df7e-de2f-45b3-b444-d711935ee9a3",
+                "style": "",
+                "capacity": "",
+                "storage": "",
+                "cpu_type": "",
+                "cores": null,
+                "condition_status": "new",
+                "condition_message": "",
+                "color_name": "Puple",
+                "color_code": "#432d76",
+                "price": 140000
+              }
+            ]
+          },
+          "availability": "in_stock",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "deal_name": "",
+          "deal_start_at": "",
+          "deal_end_at": "",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-12T16:07:47.777Z"
+          },
+          "is_published": true,
+          "product_description": "<p>Short Description:</p><p>The JBL Tune 530BT wireless headphones deliver powerful JBL Pure Bass Sound through 33mm dynamic drivers. They feature Bluetooth 6.0, two beamforming microphones for clear calls, multi-point connectivity and up to 76 hours of battery life. Their lightweight, foldable design provides comfortable listening at home, work or while travelling.</p><p></p><p></p><p>Full Description:</p><p>The JBL Tune 530BT are lightweight wireless on-ear headphones designed to provide powerful sound, long battery life and clear voice calls. Their compact foldable design makes them convenient for listening to music, attending online meetings, making calls and travelling.</p><p></p><p>Equipped with 33mm dynamic drivers, the headphones deliver JBL Pure Bass Sound with rich bass and clear audio across a frequency range of 20Hz to 20kHz. The sound can also be personalised through the JBL Headphones App using available equaliser presets. The two built-in beamforming microphones capture your voice accurately while helping reduce surrounding background noise. This provides clearer communication during telephone calls and online meetings. Bluetooth 6.0 provides stable wireless connectivity with reduced latency and power consumption. Multi-point connection allows the headphones to remain paired with two compatible devices and switch conveniently between them. The rechargeable battery offers up to 76 hours of music playback or approximately 45 hours of talk time. When the battery is low, a five-minute speed charge provides up to five additional hours of playback. A complete charge takes approximately two hours.</p>",
+          "brand_id": "TkYdHnUkveEh2pgmbURc",
+          "category_id": "rNlgigBx9RrsN66gYUBg",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-12T16:31:38.993Z"
+          }
+        },
+        "EYknzyUykF7X3ld3EkHD": {
+          "product_name": "MacBook Air M2 2022 | 24GB Unified Memory | 2TB SSD | 13\" Liquid Retina Display | Brand New",
+          "product_title": "MacBook Air M2 2022 | 24GB Unified Memory | 2TB SSD | 13\" Liquid Retina Display | Brand New",
+          "product_description": "<p>Powerful, ultra-slim, and premium MacBook Air powered by the Apple M2 chip, featuring 24GB unified memory, massive 2TB SSD storage, an 8-core CPU, and a stunning 13.6-inch Liquid Retina display—ideal for business, creative work, multitasking, study, and everyday professional use.</p>",
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786029634/golden_k_images/products/fz6n6ed8i4mpyj064lkt.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786029635/golden_k_images/products/iqpufbxi8iwjgniohark.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786029636/golden_k_images/products/sqeangqjqrhs7i1rengi.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786029638/golden_k_images/products/ywbs741ohjcdjcfrpfte.jpg"
+          ],
+          "price": 1700000,
+          "quantity": 1,
+          "brand_id": "e5f6a7b8-c9d0-4123-e456-789abcdef0123",
+          "category_id": "SAr8UZclm26eQawLbgaG",
+          "is_published": true,
+          "colors": [
+            {
+              "color_name": "StarLight",
+              "color_code": "#f7f4d9"
+            }
+          ],
+          "feature_option_id": "",
+          "shipping_option_id": "",
+          "additional_info_option_id": "",
+          "specification_option_id": "",
+          "feature": [],
+          "shipping_information": [],
+          "additional_info": [],
+          "specification": [],
+          "availability": "in_stock",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "deal_name": "",
+          "deal_start_at": "",
+          "deal_end_at": "",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-06T15:20:41.567Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-06T15:20:41.567Z"
+          }
+        },
+        "F6vt0TJvUWrGmm1MAoC6": {
+          "product_description": "<p>The 2021 MacBook Pro 14-inch combines the powerful Apple M1 Pro chip, 32GB unified memory and a fast 1TB SSD. Its Liquid Retina XDR display, advanced graphics, extensive connectivity and long battery life make it ideal for video editing, graphic design, programming and demanding professional work.</p>",
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785751629/golden_k_images/products/bk2uj7nszct2bzmvd6cd.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785751630/golden_k_images/products/rh9fsc5flsrjjz7kjvxt.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785751632/golden_k_images/products/urejdchiyps2dme9hlwu.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785751635/golden_k_images/products/i8udp52iobhcyfl8hi3j.jpg"
+          ],
+          "price": 1700000,
+          "quantity": 2,
+          "brand_id": "e5f6a7b8-c9d0-4123-e456-789abcdef0123",
+          "category_id": "SAr8UZclm26eQawLbgaG",
+          "is_published": true,
+          "colors": [],
+          "feature_option_id": "g4dqXbI8QTnKELNmqbga",
+          "shipping_option_id": "HwAXtl8UfTUfbryNGO9q",
+          "additional_info_option_id": "",
+          "specification_option_id": "",
+          "shipping_information": [
+            {
+              "type": "Local shipping",
+              "description": "<p>Less Than 24 Hours</p>"
+            },
+            {
+              "type": "Global shipping",
+              "description": "<p>Less Than Two weeks</p>"
+            }
+          ],
+          "additional_info": [],
+          "specification": [],
+          "availability": "in_stock",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "deal_name": "",
+          "deal_start_at": "",
+          "deal_end_at": "",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-03T10:07:17.274Z"
+          },
+          "feature": [
+            {
+              "description": "Quality Tested & Verified",
+              "icon": "streamline-flex:warranty-badge-highlight-solid"
+            },
+            {
+              "description": "Warranty Included",
+              "icon": "streamline-flex:warranty-badge-highlight-solid"
+            },
+            {
+              "icon": "iconamoon:delivery-fill",
+              "description": "Fast & Reliable Delivery"
+            },
+            {
+              "icon": "hugeicons:payment-01",
+              "description": "Secure Payment Methods"
+            },
+            {
+              "description": "Expert After-Sales Support",
+              "icon": "material-symbols:support-agent"
+            },
+            {
+              "description": "Easy Returns & Exchanges",
+              "icon": "solar:money-bag-linear"
+            }
+          ],
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-05T12:05:44.254Z"
+          },
+          "product_name": "MacBook Pro M1 2021 14-inch – 32GB Unified Memory, 1TB SSD, Space Gray",
+          "product_title": "MacBook Pro M1 2021 14-inch – 32GB Unified Memory, 1TB SSD, Space Gray"
+        },
+        "Fn1GmQLspEvJT6V0PeGK": {
+          "product_name": "Apple iPad Pro M4 11-inch – 512GB",
+          "product_title": "Apple iPad Pro M4 11-inch – 512GB",
+          "product_description": "<p>The iPad Pro M4 11-inch delivers exceptional performance in an ultra-thin and lightweight design. It features a stunning Ultra Retina XDR OLED display, 512GB storage, professional cameras, Face ID and Thunderbolt connectivity—ideal for creative work, entertainment, business and productivity.</p>",
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786362475/golden_k_images/products/hvudwoqennln3ryt94ip.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786362476/golden_k_images/products/dmfs9avjsoxzhmqro7s1.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786362477/golden_k_images/products/kipxcquyyluaggwck8sh.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786362479/golden_k_images/products/unomp2emre1wo7mtz7h7.jpg"
+          ],
+          "price": 1850000,
+          "quantity": 0,
+          "brand_id": "e5f6a7b8-c9d0-4123-e456-789abcdef0123",
+          "category_id": "OINhyiD7ygOyBzbvvoRz",
+          "is_published": true,
+          "colors": [
+            {
+              "color_name": "Space Black",
+              "color_code": "#5c5c5c"
+            }
+          ],
+          "feature_option_id": "g4dqXbI8QTnKELNmqbga",
+          "shipping_option_id": "HwAXtl8UfTUfbryNGO9q",
+          "additional_info_option_id": "",
+          "specification_option_id": "",
+          "feature": [
+            {
+              "description": "Quality Tested & Verified",
+              "icon": "streamline-flex:warranty-badge-highlight-solid",
+              "icon_link": "",
+              "highlight": false
+            },
+            {
+              "icon": "streamline-flex:warranty-badge-highlight-solid",
+              "description": "Warranty Included",
+              "icon_link": "",
+              "highlight": false
+            },
+            {
+              "icon": "iconamoon:delivery-fill",
+              "description": "Fast & Reliable Delivery",
+              "icon_link": "",
+              "highlight": false
+            },
+            {
+              "icon": "hugeicons:payment-01",
+              "description": "Secure Payment Methods",
+              "icon_link": "",
+              "highlight": false
+            },
+            {
+              "description": "Expert After-Sales Support",
+              "icon": "material-symbols:support-agent",
+              "icon_link": "",
+              "highlight": false
+            },
+            {
+              "description": "Easy Returns & Exchanges",
+              "icon": "solar:money-bag-linear",
+              "icon_link": "",
+              "highlight": false
+            }
+          ],
+          "shipping_information": [
+            {
+              "type": "Local shipping",
+              "description": "<p>Less Than 24 Hours</p>"
+            },
+            {
+              "type": "Global shipping",
+              "description": "<p>Less Than Two weeks</p>"
+            }
+          ],
+          "additional_info": [],
+          "specification": [],
+          "pricing_options": {
+            "variants": [
+              {
+                "id": "a5bbd53f-1779-464a-b9fb-52993aafb8ad",
+                "style": "",
+                "capacity": "",
+                "storage": "512 GB SSD",
+                "cpu_type": "",
+                "cores": null,
+                "condition_status": "used",
+                "condition_message": "",
+                "color_name": "Space Black",
+                "color_code": "#5c5c5c",
+                "price": 1850000
+              }
+            ]
+          },
+          "availability": "in_stock",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "deal_name": "",
+          "deal_start_at": "",
+          "deal_end_at": "",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-10T11:48:01.215Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-10T11:48:01.215Z"
+          }
+        },
+        "FtoJtkMdhSfTz6c4mgpb": {
+          "brand_id": "6WASDLZrfEoKkVGpKhZa",
+          "deal_end_at": "",
+          "additional_info": [],
+          "deal_name": "",
+          "specification": [],
+          "price": 650000,
+          "shipping_option_id": "",
+          "feature_option_id": "",
+          "shipping_information": [],
+          "specification_option_id": "",
+          "product_title": "Lenovo ThinkPad X13 Gen 2 – 13.3″ WUXGA, Intel Core i5 11th Gen",
+          "additional_info_option_id": "",
+          "product_name": "Lenovo ThinkPad X13 Gen 2 – 13.3″ WUXGA, Intel Core i5 11th Gen",
+          "feature": [],
+          "deal_start_at": "",
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1784714909/golden_k_images/products/idck82wysuvzzp0uvyqw.png",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1784714912/golden_k_images/products/xpugsygkt67iqxkeokst.png",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1784714914/golden_k_images/products/pj56mgbvwjfhtomnkagi.png",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1784714917/golden_k_images/products/erhw2iftafs5z6knq4iw.png"
+          ],
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "availability": "in_stock",
+          "category_id": "a1b2c3d4-e5f6-4789-a012-3456789abcde",
+          "product_description": "<p>The Lenovo ThinkPad X13 Gen 2 is a compact, lightweight and powerful business laptop powered by an 11th Generation Intel Core i5 processor, 16GB RAM and a fast 512GB NVMe SSD. It features a sharp 13.3 inch display, Intel Iris Xe graphics, premium ThinkPad keyboard and enterprise-grade security—ideal for business, studies, travel and professional multitasking.</p>",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-22T10:08:40.213Z"
+          },
+          "is_published": true,
+          "colors": [
+            {
+              "color_name": "Black",
+              "color_code": "#000000"
+            }
+          ],
+          "quantity": 0,
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-04T09:29:01.802Z"
+          }
+        },
+        "GWeP4HOIWotty60nvZ6g": {
+          "additional_info": [],
+          "deal_name": "",
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1784720882/golden_k_images/products/nzlopy3yytrbxjclowfs.png",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1784720885/golden_k_images/products/ldcbhft3iytexhgvrrda.png",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1784720888/golden_k_images/products/kdg5zdxlhmgvq09zzcom.png",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1784720892/golden_k_images/products/zfqbkg5qiv21qnn1snde.png"
+          ],
+          "shipping_information": [],
+          "price": 1650000,
+          "deal_end_at": "",
+          "specification_option_id": "",
+          "quantity": 1,
+          "is_published": true,
+          "feature": [],
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "product_description": "<p>The 14-inch MacBook Pro with the Apple M3 chip delivers excellent performance for work, creativity and entertainment. It features an 8-core CPU, 10-core GPU, 8GB unified memory and a fast 512GB SSD. Its outstanding Liquid Retina XDR display, hardware-accelerated ray tracing, long battery life and Apple Intelligence support make it ideal for professional and everyday use.</p>",
+          "brand_id": "e5f6a7b8-c9d0-4123-e456-789abcdef0123",
+          "additional_info_option_id": "",
+          "availability": "in_stock",
+          "specification": [],
+          "shipping_option_id": "",
+          "deal_start_at": "",
+          "feature_option_id": "",
+          "colors": [],
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-22T11:48:14.699Z"
+          },
+          "product_title": "MacBook Pro 14-inch – M3 8-Core CPU, 10-Core GPU, 8GB Unified Memory, 512GB SSD",
+          "category_id": "SAr8UZclm26eQawLbgaG",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-05T12:11:16.377Z"
+          },
+          "product_name": "MacBook Pro M3 14-inch 8GB Unified Memory, 512GB SSD"
+        },
+        "GbSKrP48SxhuasW0NPdW": {
+          "additional_info": [],
+          "colors": [
+            {
+              "color_code": "#9e9e9e",
+              "color_name": "Silver"
+            }
+          ],
+          "deal_name": "",
+          "availability": "in_stock",
+          "additional_info_option_id": "",
+          "brand_id": "xSDrHOn7giAc3SbWooqV",
+          "product_name": "HP Elitebook X360 1030 G2",
+          "specification_option_id": "",
+          "product_title": "HP Elitebook X360 1030 G2",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "is_published": true,
+          "quantity": 1,
+          "price": 500000,
+          "specification": [],
+          "category_id": "a1b2c3d4-e5f6-4789-a012-3456789abcde",
+          "shipping_information": [],
+          "shipping_option_id": "",
+          "product_description": "<p>HP Elitebook X360 1030 G2 13.3\" Flip Design Notebook, Windows, Intel Core i5 2.6 GHz, 8 GB RAM, 256 GB SSD</p>",
+          "deal_start_at": "",
+          "deal_end_at": "",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-20T10:13:07.420Z"
+          },
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785416009/golden_k_images/products/GbSKrP48SxhuasW0NPdW/njkec9kwj8gosw3kqn6z.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785416010/golden_k_images/products/GbSKrP48SxhuasW0NPdW/qk7xahjzrci5pgi3e82f.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785416012/golden_k_images/products/GbSKrP48SxhuasW0NPdW/ev8i6jl4wtwvhcbgdqsd.jpg"
+          ],
+          "feature": [
+            {
+              "icon": "streamline-flex:warranty-badge-highlight-solid",
+              "description": "Quality Tested & Verified"
+            },
+            {
+              "description": "Warranty Included",
+              "icon": "streamline-flex:warranty-badge-highlight-solid"
+            },
+            {
+              "description": "Fast & Reliable Delivery",
+              "icon": "iconamoon:delivery-fill"
+            },
+            {
+              "description": "Secure Payment Methods",
+              "icon": "hugeicons:payment-01"
+            },
+            {
+              "icon": "material-symbols:support-agent",
+              "description": "Expert After-Sales Support"
+            },
+            {
+              "icon": "solar:money-bag-linear",
+              "description": "Easy Returns & Exchanges"
+            }
+          ],
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-31T06:41:54.521Z"
+          },
+          "feature_option_id": "g4dqXbI8QTnKELNmqbga"
+        },
+        "HhcV1MlMwVgGyQhZ5rw4": {
+          "product_name": "MacBook Pro 2021 16\" - M1 Pro Chip",
+          "is_published": true,
+          "feature_option_id": "",
+          "deal_name": "",
+          "shipping_information": [],
+          "additional_info_option_id": "",
+          "specification": [],
+          "specification_option_id": "",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "brand_id": "e5f6a7b8-c9d0-4123-e456-789abcdef0123",
+          "availability": "in_stock",
+          "colors": [],
+          "product_title": "MacBook Pro 2021 16\" - M1 Pro Chip",
+          "deal_end_at": "",
+          "additional_info": [],
+          "quantity": 1,
+          "deal_start_at": "",
+          "feature": [],
+          "shipping_option_id": "",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-20T14:11:37.708Z"
+          },
+          "product_description": "<p>MacBook Pro 16-inch delivers exceptional professional performance with the powerful M1 Pro chip, 16GB unified memory and a fast 512GB SSD. Its outstanding 16.2-inch Liquid Retina XDR display, 16-core GPU, advanced media engine and long battery life make it ideal for video editing, graphic design, programming, music production and demanding professional workloads.</p>",
+          "price": 1800000,
+          "pricing_options": {
+            "variants": [
+              {
+                "id": "e6049ec0-6e70-40ff-bdb0-8b17b6f413c6",
+                "style": "",
+                "capacity": "16 GB",
+                "storage": "512 GB SSD",
+                "cpu_type": "",
+                "cores": null,
+                "condition_status": "used",
+                "condition_message": "Good Condition",
+                "color_name": "",
+                "color_code": "",
+                "price": 1800000
+              }
+            ]
+          },
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785404901/golden_k_images/products/HhcV1MlMwVgGyQhZ5rw4/v3cmfaink5qkwcyrf4w9.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785404902/golden_k_images/products/HhcV1MlMwVgGyQhZ5rw4/qxipxtywoz3fgyeuwli7.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785404904/golden_k_images/products/HhcV1MlMwVgGyQhZ5rw4/hge3lhtak4n6u6rpvvzm.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785404905/golden_k_images/products/HhcV1MlMwVgGyQhZ5rw4/xc1rduslxi20qun5hhhl.jpg"
+          ],
+          "category_id": "SAr8UZclm26eQawLbgaG",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-31T16:06:51.217Z"
+          }
+        },
+        "JNS9jegFAJft3CYPfvFX": {
+          "product_name": "Hollyland LARK M2 Wireless Lavalier Microphone – Lightning Version",
+          "product_title": "Hollyland LARK M2 Wireless Lavalier Microphone – Lightning Version",
+          "product_description": "<p>The Hollyland LARK M2 is a compact dual wireless lavalier microphone system designed for iPhones with a Lightning port. It delivers clear 48kHz/24-bit audio, one-click noise cancellation and wireless transmission up to 300 metres—ideal for interviews, vlogging, live streaming and professional content creation.</p>",
+          "price": 350000,
+          "quantity": 2,
+          "brand_id": "",
+          "is_published": true,
+          "colors": [],
+          "additional_info_option_id": "",
+          "specification_option_id": "",
+          "additional_info": [],
+          "specification": [],
+          "availability": "in_stock",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "deal_name": "",
+          "deal_start_at": "",
+          "deal_end_at": "",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-10T13:18:22.353Z"
+          },
+          "category_id": "4Eo2Cn8WjUyJMmQngmte",
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786523456/golden_k_images/products/JNS9jegFAJft3CYPfvFX/ia7lkfbybudew5385k5e.jpg"
+          ],
+          "shipping_information": [
+            {
+              "type": "Local shipping",
+              "description": "<p>Less Than 24 Hours</p>"
+            },
+            {
+              "type": "Global shipping",
+              "description": "<p>Less Than Two weeks</p>"
+            }
+          ],
+          "feature": [
+            {
+              "icon": "streamline-flex:warranty-badge-highlight-solid",
+              "description": "Quality Tested & Verified"
+            },
+            {
+              "description": "Warranty Included",
+              "icon": "streamline-flex:warranty-badge-highlight-solid"
+            },
+            {
+              "description": "Fast & Reliable Delivery",
+              "icon": "iconamoon:delivery-fill"
+            },
+            {
+              "description": "Secure Payment Methods",
+              "icon": "hugeicons:payment-01"
+            },
+            {
+              "description": "Expert After-Sales Support",
+              "icon": "material-symbols:support-agent"
+            },
+            {
+              "icon": "solar:money-bag-linear",
+              "description": "Easy Returns & Exchanges"
+            }
+          ],
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-12T08:30:58.021Z"
+          },
+          "shipping_option_id": "HwAXtl8UfTUfbryNGO9q",
+          "feature_option_id": "g4dqXbI8QTnKELNmqbga"
+        },
+        "L5VPPVeIH9sLddwWywtu": {
+          "product_name": "JBL Tune Flex 2 True Wireless Noise Cancelling Earbuds – Black",
+          "product_title": "JBL Tune Flex 2 True Wireless Noise Cancelling Earbuds – Black",
+          "product_description": "<p>The JBL Tune Flex 2 true wireless earbuds deliver powerful JBL Pure Bass Sound and immersive JBL Spatial Sound through 12mm dynamic drivers. They feature Adaptive Noise Cancelling, Smart Ambient technology, six microphones for clear calls, IP54 dust and water resistance, and up to 48 hours of total playback.</p>",
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786552739/golden_k_images/products/lrmdmj9xpoabz6t9tbd3.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786552741/golden_k_images/products/ojxmw4gzuxek1ucbpxl6.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786552742/golden_k_images/products/i0dqe9fdvwzot7gvydc6.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786552743/golden_k_images/products/rv9vqwlozqho1ldaqtyd.jpg"
+          ],
+          "price": 120000,
+          "quantity": 2,
+          "brand_id": "TkYdHnUkveEh2pgmbURc",
+          "category_id": "rNlgigBx9RrsN66gYUBg",
+          "is_published": true,
+          "colors": [
+            {
+              "color_name": "Black",
+              "color_code": "#000000"
+            }
+          ],
+          "feature_option_id": "",
+          "shipping_option_id": "",
+          "additional_info_option_id": "",
+          "specification_option_id": "",
+          "feature": [],
+          "shipping_information": [],
+          "additional_info": [],
+          "specification": [],
+          "availability": "in_stock",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "deal_name": "",
+          "deal_start_at": "",
+          "deal_end_at": "",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-12T16:39:05.903Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-12T16:39:05.903Z"
+          }
+        },
+        "P5lOZTR8jC93iGTWe0R4": {
+          "product_name": "DJI Mic 3 Wireless Microphone System – 2 TX + 1 RX + Charging Case",
+          "product_title": "DJI Mic 3 Wireless Microphone System – 2 TX + 1 RX + Charging Case",
+          "product_description": "<p>DJI Mic 3 is a compact professional wireless microphone system featuring two transmitters, one receiver and a portable charging case. It supports clear omnidirectional audio, up to 400 m wireless transmission, 32-bit float internal recording, two-level noise cancellation, adaptive gain control and integrated timecode. Ideal for interviews, podcasts, vlogging, livestreaming and professional video production.</p>",
+          "price": 450000,
+          "quantity": 1,
+          "brand_id": "",
+          "colors": [],
+          "additional_info_option_id": "",
+          "specification_option_id": "",
+          "additional_info": [],
+          "specification": [],
+          "availability": "in_stock",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "deal_name": "",
+          "deal_start_at": "",
+          "deal_end_at": "",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-10T12:57:58.767Z"
+          },
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786366776/golden_k_images/products/P5lOZTR8jC93iGTWe0R4/szr1tfelnonv3l0bwndv.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786366777/golden_k_images/products/P5lOZTR8jC93iGTWe0R4/rxqyq4wlhep6zvurxosq.webp",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786366778/golden_k_images/products/P5lOZTR8jC93iGTWe0R4/xjqeoir9znxtptuxfp6a.webp",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786366780/golden_k_images/products/P5lOZTR8jC93iGTWe0R4/ghg8ppfypxdbrdnhilmi.webp",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786366781/golden_k_images/products/P5lOZTR8jC93iGTWe0R4/ewkx5mpxkkv7ga6vycka.webp",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786366782/golden_k_images/products/P5lOZTR8jC93iGTWe0R4/kft6zf9tf1dpyzagt8mb.webp"
+          ],
+          "shipping_information": [
+            {
+              "type": "Local shipping",
+              "description": "<p>Less Than 24 Hours</p>"
+            },
+            {
+              "type": "Global shipping",
+              "description": "<p>Less Than Two weeks</p>"
+            }
+          ],
+          "feature": [
+            {
+              "description": "Quality Tested & Verified",
+              "icon": "streamline-flex:warranty-badge-highlight-solid"
+            },
+            {
+              "icon": "streamline-flex:warranty-badge-highlight-solid",
+              "description": "Warranty Included"
+            },
+            {
+              "description": "Fast & Reliable Delivery",
+              "icon": "iconamoon:delivery-fill"
+            },
+            {
+              "icon": "hugeicons:payment-01",
+              "description": "Secure Payment Methods"
+            },
+            {
+              "description": "Expert After-Sales Support",
+              "icon": "material-symbols:support-agent"
+            },
+            {
+              "icon": "solar:money-bag-linear",
+              "description": "Easy Returns & Exchanges"
+            }
+          ],
+          "is_published": true,
+          "shipping_option_id": "HwAXtl8UfTUfbryNGO9q",
+          "feature_option_id": "g4dqXbI8QTnKELNmqbga",
+          "category_id": "4Eo2Cn8WjUyJMmQngmte",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-10T14:01:29.099Z"
+          }
+        },
+        "PtmZQj87koGCTVP8bbSo": {
+          "product_name": "DJI Mic 3 Wireless Microphone System – 2 TX + 1 RX + Charging Case",
+          "product_title": "DJI Mic 3 Wireless Microphone System – 2 TX + 1 RX + Charging Case",
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785491568/golden_k_images/products/u6yazecqrygzklldetbj.png",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785491570/golden_k_images/products/rx7fe0hehbjlemznkmfq.webp",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785491571/golden_k_images/products/vhx7wkrru4hmfmiclst2.webp",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785491573/golden_k_images/products/gmlveaydjazvjffv6m4l.webp",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785491574/golden_k_images/products/obtdxjvsbezdtfwdxovd.webp"
+          ],
+          "price": 500000,
+          "quantity": 1,
+          "brand_id": "",
+          "category_id": "b2c3d4e5-f6a7-4890-b123-456789abcdef0",
+          "is_published": true,
+          "colors": [],
+          "feature_option_id": "",
+          "shipping_option_id": "HwAXtl8UfTUfbryNGO9q",
+          "additional_info_option_id": "",
+          "specification_option_id": "",
+          "feature": [],
+          "shipping_information": [
+            {
+              "type": "Local shipping",
+              "description": "<p>Less Than 24 Hours</p>"
+            },
+            {
+              "type": "Global shipping",
+              "description": "<p>Less Than Two weeks</p>"
+            }
+          ],
+          "additional_info": [],
+          "specification": [],
+          "availability": "in_stock",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "deal_name": "",
+          "deal_start_at": "",
+          "deal_end_at": "",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-31T09:52:55.817Z"
+          },
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-31T09:54:53.340Z"
+          },
+          "product_description": "<p>DJI Mic 3 is a compact professional wireless microphone system featuring two transmitters, one receiver and a portable charging case. It supports clear omnidirectional audio, up to 400 m wireless transmission, 32-bit float internal recording, two-level noise cancellation, adaptive gain control and integrated timecode. Ideal for interviews, podcasts, vlogging, livestreaming and professional video production.</p>"
+        },
+        "Pu6iI0LHdVUnUlbxlFdu": {
+          "colors": [],
+          "deal_name": "",
+          "availability": "in_stock",
+          "additional_info": [],
+          "feature": [],
+          "specification_option_id": "",
+          "product_title": "HP EliteBook 840 G8 – 14″ FHD, Intel Core i5 11th Gen",
+          "feature_option_id": "",
+          "deal_start_at": "",
+          "quantity": 1,
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "price": 650000,
+          "specification": [],
+          "additional_info_option_id": "",
+          "brand_id": "xSDrHOn7giAc3SbWooqV",
+          "product_description": "<p>The HP EliteBook 840 G8 is a slim and powerful business laptop featuring an 11th Generation Intel Core i5 processor, 8GB RAM and a fast 256GB NVMe SSD. Its premium 14-inch Full HD display, durable aluminium design, fingerprint security and long-lasting battery make it ideal for office work, studies, online meetings and everyday professional use.</p>",
+          "deal_end_at": "",
+          "shipping_information": [],
+          "product_name": "HP EliteBook 840 G8 – 14″ FHD, Intel Core i5 11th Gen",
+          "shipping_option_id": "",
+          "category_id": "a1b2c3d4-e5f6-4789-a012-3456789abcde",
+          "is_published": true,
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-22T10:05:19.580Z"
+          },
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785413673/golden_k_images/products/Pu6iI0LHdVUnUlbxlFdu/ftiufbiysiav3ghjmjry.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785413674/golden_k_images/products/Pu6iI0LHdVUnUlbxlFdu/hria86vasehw3hsbyerv.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785413675/golden_k_images/products/Pu6iI0LHdVUnUlbxlFdu/jl1qeogahjcufzacqyoo.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785413677/golden_k_images/products/Pu6iI0LHdVUnUlbxlFdu/jctgzrktn8k9j2lbvx1g.jpg"
+          ],
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-30T12:14:41.915Z"
+          }
+        },
+        "QYBnNUHbGn8RQaU5NEbf": {
+          "product_description": "<p>Powerful and premium 14-inch MacBook Pro powered by the Apple M4 Pro chip, featuring 24GB unified memory, fast 512GB SSD storage, and a stunning Liquid Retina XDR display—ideal for professional, creative, and demanding workloads.</p>",
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786028089/golden_k_images/products/f1n1mdllscxy7e1ypcfx.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786028090/golden_k_images/products/by068ttpq14jlwp7v5zq.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786028091/golden_k_images/products/zpmzcxhpm0prxzygrgr2.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786028093/golden_k_images/products/vpsplkeprzmnhlk4luna.jpg"
+          ],
+          "price": 3400000,
+          "quantity": 1,
+          "brand_id": "e5f6a7b8-c9d0-4123-e456-789abcdef0123",
+          "category_id": "SAr8UZclm26eQawLbgaG",
+          "is_published": true,
+          "colors": [
+            {
+              "color_name": "Space Black",
+              "color_code": "#5c5c5c"
+            }
+          ],
+          "additional_info_option_id": "",
+          "specification_option_id": "",
+          "additional_info": [],
+          "specification": [],
+          "availability": "in_stock",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "deal_name": "",
+          "deal_start_at": "",
+          "deal_end_at": "",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-06T14:54:57.208Z"
+          },
+          "shipping_information": [
+            {
+              "type": "Local shipping",
+              "description": "<p>Less Than 24 Hours</p>"
+            },
+            {
+              "type": "Global shipping",
+              "description": "<p>Less Than Two weeks</p>"
+            }
+          ],
+          "feature": [
+            {
+              "icon": "streamline-flex:warranty-badge-highlight-solid",
+              "description": "Quality Tested & Verified"
+            },
+            {
+              "description": "Warranty Included",
+              "icon": "streamline-flex:warranty-badge-highlight-solid"
+            },
+            {
+              "icon": "iconamoon:delivery-fill",
+              "description": "Fast & Reliable Delivery"
+            },
+            {
+              "description": "Secure Payment Methods",
+              "icon": "hugeicons:payment-01"
+            },
+            {
+              "description": "Expert After-Sales Support",
+              "icon": "material-symbols:support-agent"
+            },
+            {
+              "description": "Easy Returns & Exchanges",
+              "icon": "solar:money-bag-linear"
+            }
+          ],
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-06T15:23:18.713Z"
+          },
+          "shipping_option_id": "HwAXtl8UfTUfbryNGO9q",
+          "feature_option_id": "g4dqXbI8QTnKELNmqbga",
+          "product_name": "MacBook Pro M4 Pro Chip 2025 14-inch – 16GB Unified Memory, 512GB SSD - Brand New",
+          "product_title": "MacBook Pro M4 Pro Chip 2025 14-inch – 16GB Unified Memory, 512GB SSD - Brand New"
+        },
+        "RDuG95Bg8f2VDnt61vnA": {
+          "product_name": "MacBook Pro Core i5 (2020) 13\" 16 GB RAM/256 SSD",
+          "product_title": "MacBook Pro Core i5 (2020) 13\" 16 GB RAM/256 SSD",
+          "product_description": "<p>The 2020 MacBook Pro combines a sharp 13.3-inch Retina display, Intel Core i5 performance, 16GB RAM and fast 256GB SSD storage. Its premium aluminium design, Magic Keyboard and long-lasting battery make it suitable for office work, programming, graphic design, studying and entertainment.</p>",
+          "price": 700000,
+          "quantity": 1,
+          "brand_id": "e5f6a7b8-c9d0-4123-e456-789abcdef0123",
+          "category_id": "SAr8UZclm26eQawLbgaG",
+          "is_published": true,
+          "colors": [
+            {
+              "color_name": "Silver",
+              "color_code": "#f2f2f2"
+            }
+          ],
+          "additional_info_option_id": "",
+          "specification_option_id": "",
+          "additional_info": [],
+          "specification": [],
+          "pricing_options": {
+            "variants": [
+              {
+                "id": "b3fcdcd4-337f-4e7f-bab1-6d6b8ba58642",
+                "style": "",
+                "capacity": "16 GB",
+                "storage": "256 GB SSD",
+                "cpu_type": "i5",
+                "cores": null,
+                "condition_status": "refurbished",
+                "condition_message": "Refurbished and in very good condition.",
+                "color_name": "Silver",
+                "color_code": "#f2f2f2",
+                "price": 700000
+              }
+            ]
+          },
+          "availability": "in_stock",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "deal_name": "",
+          "deal_start_at": "",
+          "deal_end_at": "",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-04T11:08:21.475Z"
+          },
+          "shipping_information": [
+            {
+              "type": "Local shipping",
+              "description": "<p>Less Than 24 Hours</p>"
+            },
+            {
+              "type": "Global shipping",
+              "description": "<p>Less Than Two weeks</p>"
+            }
+          ],
+          "feature": [
+            {
+              "description": "Quality Tested & Verified",
+              "icon": "streamline-flex:warranty-badge-highlight-solid"
+            },
+            {
+              "icon": "streamline-flex:warranty-badge-highlight-solid",
+              "description": "Warranty Included"
+            },
+            {
+              "icon": "iconamoon:delivery-fill",
+              "description": "Fast & Reliable Delivery"
+            },
+            {
+              "icon": "hugeicons:payment-01",
+              "description": "Secure Payment Methods"
+            },
+            {
+              "icon": "material-symbols:support-agent",
+              "description": "Expert After-Sales Support"
+            },
+            {
+              "icon": "solar:money-bag-linear",
+              "description": "Easy Returns & Exchanges"
+            }
+          ],
+          "shipping_option_id": "HwAXtl8UfTUfbryNGO9q",
+          "feature_option_id": "g4dqXbI8QTnKELNmqbga",
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785841695/golden_k_images/products/j5wzywzzddvi2pq30f4y.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785841696/golden_k_images/products/prrsaxgnqv2gnmuszxan.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785841699/golden_k_images/products/juayfhjiwibqlpky7jvy.jpg"
+          ],
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-04T11:32:02.472Z"
+          }
+        },
+        "Ry7Pu1sHAsBzjEEMRDff": {
+          "product_description": "<p>The Apple MacBook Pro 16-inch (2019) is a powerful professional laptop featuring an 8-core Intel Core i9 processor, 32GB RAM, fast 512GB SSD storage, dedicated AMD Radeon Pro graphics and a brilliant 16-inch Retina display. It is ideal for video editing, graphic design, software development, music production and demanding business applications.</p>",
+          "price": 950000,
+          "quantity": 1,
+          "brand_id": "e5f6a7b8-c9d0-4123-e456-789abcdef0123",
+          "category_id": "SAr8UZclm26eQawLbgaG",
+          "is_published": true,
+          "colors": [],
+          "additional_info_option_id": "",
+          "specification_option_id": "",
+          "additional_info": [],
+          "specification": [],
+          "pricing_options": {
+            "variants": [
+              {
+                "id": "e93ae684-3a6d-4568-be70-5cbadb21fcb3",
+                "style": "",
+                "capacity": "32 GB",
+                "storage": "512 GB SSD",
+                "cpu_type": "i9",
+                "cores": null,
+                "condition_status": "refurbished",
+                "condition_message": "Refurbished and in very good condition",
+                "color_name": "",
+                "color_code": "",
+                "price": 950000
+              }
+            ]
+          },
+          "availability": "in_stock",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "deal_name": "",
+          "deal_start_at": "",
+          "deal_end_at": "",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-04T11:18:08.898Z"
+          },
+          "shipping_information": [
+            {
+              "type": "Local shipping",
+              "description": "<p>Less Than 24 Hours</p>"
+            },
+            {
+              "type": "Global shipping",
+              "description": "<p>Less Than Two weeks</p>"
+            }
+          ],
+          "feature": [
+            {
+              "description": "Quality Tested & Verified",
+              "icon": "streamline-flex:warranty-badge-highlight-solid"
+            },
+            {
+              "icon": "streamline-flex:warranty-badge-highlight-solid",
+              "description": "Warranty Included"
+            },
+            {
+              "icon": "iconamoon:delivery-fill",
+              "description": "Fast & Reliable Delivery"
+            },
+            {
+              "icon": "hugeicons:payment-01",
+              "description": "Secure Payment Methods"
+            },
+            {
+              "icon": "material-symbols:support-agent",
+              "description": "Expert After-Sales Support"
+            },
+            {
+              "icon": "solar:money-bag-linear",
+              "description": "Easy Returns & Exchanges"
+            }
+          ],
+          "shipping_option_id": "HwAXtl8UfTUfbryNGO9q",
+          "feature_option_id": "g4dqXbI8QTnKELNmqbga",
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785842383/golden_k_images/products/Ry7Pu1sHAsBzjEEMRDff/alc1fza30ygceuyoiujm.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785842385/golden_k_images/products/Ry7Pu1sHAsBzjEEMRDff/icb5dozfaxastwzuln8n.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785842386/golden_k_images/products/Ry7Pu1sHAsBzjEEMRDff/zpsnfgs4hyuurtzywemm.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785842387/golden_k_images/products/Ry7Pu1sHAsBzjEEMRDff/xndkgdlj3fvsoswpz3cq.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785842389/golden_k_images/products/Ry7Pu1sHAsBzjEEMRDff/hgkx45xvcqbiqsgsd1ut.jpg"
+          ],
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-05T12:01:57.779Z"
+          },
+          "product_name": "MacBook Pro Core i9 (2019) 16-inch, 32GB RAM, 512GB SSD",
+          "product_title": "MacBook Pro Core i9 (2019) 16-inch, 32GB RAM, 512GB SSD"
+        },
+        "UBJiQzH6comRqTJ507Ii": {
+          "product_name": "JBL Tune 760NC Wireless Over-Ear Noise Cancelling Headphones – Black",
+          "product_title": "JBL Tune 760NC Wireless Over-Ear Noise Cancelling Headphones – Black",
+          "product_description": "<p>The JBL Tune 760NC wireless over-ear headphones combine powerful JBL Pure Bass Sound with Active Noise Cancelling for focused, immersive listening. They feature 40mm dynamic drivers, multi-point Bluetooth connectivity, hands-free calling and up to 50 hours of wireless playback.</p>",
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786552605/golden_k_images/products/mih25kgpbf06u2ddkvfy.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786552606/golden_k_images/products/arxyjhlacipgpazvfzda.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786552607/golden_k_images/products/smo1eelrhyj84xy8rbtk.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786552609/golden_k_images/products/qqtn7etgd3qytvf5dd5h.jpg"
+          ],
+          "price": 180000,
+          "quantity": 1,
+          "brand_id": "TkYdHnUkveEh2pgmbURc",
+          "category_id": "rNlgigBx9RrsN66gYUBg",
+          "is_published": true,
+          "colors": [],
+          "feature_option_id": "",
+          "shipping_option_id": "",
+          "additional_info_option_id": "",
+          "specification_option_id": "",
+          "feature": [],
+          "shipping_information": [],
+          "additional_info": [],
+          "specification": [],
+          "availability": "in_stock",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "deal_name": "",
+          "deal_start_at": "",
+          "deal_end_at": "",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-12T16:36:50.711Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-12T16:36:50.711Z"
+          }
+        },
+        "W2AvqinMm36EUOrdNtYO": {
+          "product_description": "<p>A compact and powerful MacBook Pro featuring the Apple M2 chip, 16GB unified memory and 512GB SSD. Its Retina display, long battery life, Touch Bar and active cooling make it ideal for professional work, programming, content creation and everyday productivity.</p>",
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785753104/golden_k_images/products/fjgmxrasovxtrgmnfewo.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785753106/golden_k_images/products/dnnltan2jtniiv5lu0vb.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785753107/golden_k_images/products/xjqbw8vihnkp8lxgrlkj.jpg"
+          ],
+          "price": 1250000,
+          "quantity": 2,
+          "brand_id": "e5f6a7b8-c9d0-4123-e456-789abcdef0123",
+          "category_id": "SAr8UZclm26eQawLbgaG",
+          "is_published": true,
+          "colors": [],
+          "feature_option_id": "g4dqXbI8QTnKELNmqbga",
+          "shipping_option_id": "HwAXtl8UfTUfbryNGO9q",
+          "additional_info_option_id": "",
+          "specification_option_id": "",
+          "shipping_information": [
+            {
+              "type": "Local shipping",
+              "description": "<p>Less Than 24 Hours</p>"
+            },
+            {
+              "type": "Global shipping",
+              "description": "<p>Less Than Two weeks</p>"
+            }
+          ],
+          "additional_info": [],
+          "specification": [],
+          "availability": "in_stock",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "deal_name": "",
+          "deal_start_at": "",
+          "deal_end_at": "",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-03T10:31:49.127Z"
+          },
+          "feature": [
+            {
+              "icon": "streamline-flex:warranty-badge-highlight-solid",
+              "description": "Quality Tested & Verified"
+            },
+            {
+              "icon": "streamline-flex:warranty-badge-highlight-solid",
+              "description": "Warranty Included"
+            },
+            {
+              "icon": "iconamoon:delivery-fill",
+              "description": "Fast & Reliable Delivery"
+            },
+            {
+              "description": "Secure Payment Methods",
+              "icon": "hugeicons:payment-01"
+            },
+            {
+              "icon": "material-symbols:support-agent",
+              "description": "Expert After-Sales Support"
+            },
+            {
+              "description": "Easy Returns & Exchanges",
+              "icon": "solar:money-bag-linear"
+            }
+          ],
+          "product_title": "MacBook Pro M2 13-inch (2022) – 16GB Unified Memory, 512GB SSD, Space Gray",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-04T11:26:41.966Z"
+          },
+          "pricing_options": {
+            "variants": [
+              {
+                "id": "02d7097c-fde3-4b57-a244-d0cb62e87f1c",
+                "style": "",
+                "capacity": "16 GB",
+                "storage": "512 GB SSD",
+                "cpu_type": "",
+                "cores": null,
+                "condition_status": "refurbished",
+                "condition_message": "Refurbished and in Very Good Condition",
+                "color_name": "",
+                "color_code": "",
+                "price": 1250000
+              }
+            ]
+          },
+          "product_name": "MacBook Pro M2 (2022)13-inch – 16GB Unified Memory, 512GB  SSD, Space Gray"
+        },
+        "WPV4MdrB6bW4RI4E1BLf": {
+          "deal_end_at": "",
+          "category_id": "a1b2c3d4-e5f6-4789-a012-3456789abcde",
+          "brand_id": "xSDrHOn7giAc3SbWooqV",
+          "availability": "in_stock",
+          "quantity": 3,
+          "feature_option_id": "",
+          "deal_start_at": "",
+          "feature": [],
+          "shipping_option_id": "",
+          "additional_info": [],
+          "deal_name": "",
+          "is_published": true,
+          "product_title": "HP EliteBook 840 G3",
+          "additional_info_option_id": "",
+          "specification_option_id": "",
+          "product_name": "HP EliteBook 840 G3",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "specification": [],
+          "shipping_information": [],
+          "colors": [],
+          "price": 300000,
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-20T10:22:29.398Z"
+          },
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785410705/golden_k_images/products/WPV4MdrB6bW4RI4E1BLf/pwf3iwu1gbp3wnlnjrsf.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785410707/golden_k_images/products/WPV4MdrB6bW4RI4E1BLf/sa3h5xvtj4cmfx6dflrs.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785410709/golden_k_images/products/WPV4MdrB6bW4RI4E1BLf/dawidiq14kyzbjlx1bah.jpg"
+          ],
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-30T11:25:13.129Z"
+          },
+          "product_description": "<p>HP EliteBook 840 G3 14in Laptop, Core i5 - 8G RAM, 256GB Solid State Drive, Windows 11Pro 64Bit</p>"
+        },
+        "a7zc0TvNDWJ4DmGmIzbi": {
+          "additional_info": [],
+          "is_published": true,
+          "colors": [],
+          "brand_id": "b8c9d0e1-f2a3-4456-b789-abcdef01234567",
+          "additional_info_option_id": "",
+          "feature_option_id": "g4dqXbI8QTnKELNmqbga",
+          "price": 950000,
+          "deal_start_at": "",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "specification_option_id": "",
+          "product_name": "Dell Alienware 15 R4 Gaming Laptop – 15.6-inch Display, 16GB DDR4 RAM, 512GB SSD",
+          "category_id": "a1b2c3d4-e5f6-4789-a012-3456789abcde",
+          "product_description": "<p>The Dell Alienware 15 R4 is a powerful 15.6-inch gaming laptop designed for demanding games, graphics work, video editing and engineering applications. It features 16GB DDR4 memory, fast 512GB SSD storage, an RGB-backlit gaming keyboard, advanced cooling and extensive connectivity, including Thunderbolt 3, HDMI and Mini DisplayPort.</p>",
+          "deal_end_at": "",
+          "product_title": "Dell Alienware 15 R4 Gaming Laptop – 15.6-inch Display, 16GB DDR4 RAM, 512GB SSD",
+          "specification": [],
+          "shipping_information": [
+            {
+              "description": "<p>Less Than 24 Hours</p>",
+              "type": "Local shipping"
+            },
+            {
+              "description": "<p>Less Than Two weeks</p>",
+              "type": "Global shipping"
+            }
+          ],
+          "deal_name": "",
+          "availability": "in_stock",
+          "shipping_option_id": "HwAXtl8UfTUfbryNGO9q",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-29T14:22:45.519Z"
+          },
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785339799/golden_k_images/products/a7zc0TvNDWJ4DmGmIzbi/py9ei1cvt8orvlflq8re.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785339801/golden_k_images/products/a7zc0TvNDWJ4DmGmIzbi/als0ppxf3fa5ohyn8omn.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785339802/golden_k_images/products/a7zc0TvNDWJ4DmGmIzbi/jyqcbfvqofaxdhbl9ezb.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785339804/golden_k_images/products/a7zc0TvNDWJ4DmGmIzbi/uk8iwgnyas78yjh89ksi.jpg"
+          ],
+          "feature": [
+            {
+              "icon": "streamline-flex:warranty-badge-highlight-solid",
+              "description": "Quality Tested & Verified"
+            },
+            {
+              "description": "Warranty Included",
+              "icon": "streamline-flex:warranty-badge-highlight-solid"
+            },
+            {
+              "description": "Fast & Reliable Delivery",
+              "icon": "iconamoon:delivery-fill"
+            },
+            {
+              "icon": "hugeicons:payment-01",
+              "description": "Secure Payment Methods"
+            },
+            {
+              "description": "Expert After-Sales Support",
+              "icon": "material-symbols:support-agent"
+            },
+            {
+              "description": "Easy Returns & Exchanges",
+              "icon": "solar:money-bag-linear"
+            }
+          ],
+          "quantity": 0,
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-10T09:31:26.454Z"
+          }
+        },
+        "aV1fTkYcRhnzVmZIdHPV": {
+          "product_name": "JBL Tune 730BT Wireless Over-Ear Headphones – Black",
+          "product_title": "JBL Tune 730BT Wireless Over-Ear Headphones – Black",
+          "product_description": "<p><u>The JBL Tune 730BT</u> wireless over-ear headphones deliver powerful JBL Pure Bass Sound through large 40mm dynamic drivers. They feature Bluetooth 6.0, two beamforming microphones, multi-point connectivity and up to 76 hours of battery life. Their soft over-ear cushions and foldable design provide comfortable listening throughout the day.</p><h2>Key Specifications:</h2><ul><li><p>Driver Size: 40mm </p></li><li><p> Sound Technology: JBL Pure Bass Sound </p></li><li><p> Design: Wireless Over-Ear Headphones </p></li><li><p>Connectivity: Bluetooth 6.0 </p></li><li><p>Battery Life: Up to 76 Hours </p></li><li><p>Quick Charging: 5 Minutes for Up to 5 Hours</p></li><li><p>Charging Time: Approximately 2 Hours </p></li><li><p>Microphones: 2 Beamforming Microphones </p></li><li><p> Multi-Point Connection: Supported </p></li><li><p> Weight: Approximately 218g </p></li><li><p>Colour: Black</p></li></ul><p></p>",
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786552239/golden_k_images/products/jqgzdtrv0up30a0kzg1x.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786552241/golden_k_images/products/jmkyn28tquinmya0yzvk.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786552242/golden_k_images/products/gapnuujcpuzao9lnf9sg.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786552244/golden_k_images/products/k8bs9mjmnxfqfeyhv7cb.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786552245/golden_k_images/products/npc80ajaikfhglgwosza.jpg"
+          ],
+          "price": 160000,
+          "quantity": 2,
+          "brand_id": "TkYdHnUkveEh2pgmbURc",
+          "category_id": "rNlgigBx9RrsN66gYUBg",
+          "is_published": true,
+          "colors": [
+            {
+              "color_name": "Black",
+              "color_code": "#000000"
+            }
+          ],
+          "feature_option_id": "",
+          "shipping_option_id": "",
+          "additional_info_option_id": "",
+          "specification_option_id": "",
+          "feature": [],
+          "shipping_information": [],
+          "additional_info": [],
+          "specification": [],
+          "availability": "in_stock",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "deal_name": "",
+          "deal_start_at": "",
+          "deal_end_at": "",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-12T16:30:48.265Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-12T16:30:48.265Z"
+          }
+        },
+        "ciQt7DVkDJ7xNMJsPnro": {
+          "shipping_option_id": "",
+          "additional_info_option_id": "",
+          "product_name": "MacBook Pro M1 - 2021 - 14\"",
+          "deal_end_at": "",
+          "quantity": 2,
+          "brand_id": "e5f6a7b8-c9d0-4123-e456-789abcdef0123",
+          "additional_info": [],
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "feature_option_id": "",
+          "is_published": true,
+          "shipping_information": [],
+          "deal_name": "",
+          "deal_start_at": "",
+          "availability": "in_stock",
+          "product_title": "MacBook Pro M1 - 2021 - 14\"",
+          "feature": [],
+          "specification_option_id": "",
+          "specification": [],
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-20T13:36:56.659Z"
+          },
+          "product_description": "<p>MacBook Pro M1 - 2021 - 14\" with Apple M1 Pro chip 10-core CPU (14 inch, 32GB RAM, 1TB SSD) Space Gray</p>",
+          "colors": [],
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785407028/golden_k_images/products/ciQt7DVkDJ7xNMJsPnro/czfoecjtuzgkqynzlhjm.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785407030/golden_k_images/products/ciQt7DVkDJ7xNMJsPnro/rspvlrotxjlikun6knws.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785407032/golden_k_images/products/ciQt7DVkDJ7xNMJsPnro/ilauracqa97xg4spphu3.jpg"
+          ],
+          "category_id": "SAr8UZclm26eQawLbgaG",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-05T12:39:01.437Z"
+          },
+          "price": 1700000,
+          "pricing_options": {
+            "variants": [
+              {
+                "id": "0f4a97a6-f001-4d94-bda4-2c5f558de670",
+                "style": "",
+                "capacity": "16 GB",
+                "storage": "1 TB SSD",
+                "cpu_type": "",
+                "cores": null,
+                "condition_status": "used",
+                "condition_message": "Good Condition",
+                "color_name": "",
+                "color_code": "",
+                "price": 1700000
+              }
+            ]
+          }
+        },
+        "eLhpduNrM0qD3eAFqjkQ": {
+          "product_name": "Z93 Pro AMOLED Smart Watch – Bluetooth Calling, Health & Fitness Tracking (Brand New)",
+          "product_title": "Z93 Pro AMOLED Smart Watch – Bluetooth Calling, Health & Fitness Tracking (Brand New)",
+          "product_description": "<p>The Z93 Pro is a stylish round smartwatch featuring a bright 1.52-inch AMOLED touchscreen, Bluetooth calling, health monitoring and multiple sports modes. It connects with Android and iOS smartphones, includes a built-in microphone and speaker, and offers IP67 water resistance for everyday use.</p>",
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785337259/golden_k_images/products/zwroyurbbn5jfobd6pdd.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785337261/golden_k_images/products/coivkospdx8lkak2jxd8.jpg"
+          ],
+          "price": 60000,
+          "quantity": 3,
+          "category_id": "d4e5f6a7-b8c9-4012-d345-6789abcdef012",
+          "is_published": true,
+          "colors": [],
+          "feature_option_id": "",
+          "shipping_option_id": "",
+          "additional_info_option_id": "",
+          "specification_option_id": "",
+          "feature": [],
+          "shipping_information": [],
+          "additional_info": [],
+          "specification": [],
+          "availability": "in_stock",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "deal_name": "",
+          "deal_start_at": "",
+          "deal_end_at": "",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-29T15:01:04.086Z"
+          },
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-29T15:01:59.824Z"
+          },
+          "brand_id": "HXSIirT2uJ8gMXkTF049"
+        },
+        "eUKTNXc5h3joFFYJhIN4": {
+          "product_name": "Dell Precision 5540 Mobile Workstation – Intel Core i7, 16GB RAM, 512GB SSD",
+          "product_title": "Dell Precision 5540 Mobile Workstation – Intel Core i7, 16GB RAM, 512GB SSD",
+          "product_description": "<p>The Dell Precision 5540 is a powerful and lightweight mobile workstation designed for engineering, graphic design, architecture, programming and professional productivity. It combines a 9th Generation Intel Core i7 processor, 16GB RAM, fast 512GB NVMe SSD storage and dedicated NVIDIA Quadro graphics in a premium carbon-fibre design.</p>",
+          "price": 1100000,
+          "brand_id": "b8c9d0e1-f2a3-4456-b789-abcdef01234567",
+          "category_id": "a1b2c3d4-e5f6-4789-a012-3456789abcde",
+          "colors": [],
+          "feature_option_id": "",
+          "shipping_option_id": "",
+          "additional_info_option_id": "",
+          "specification_option_id": "",
+          "feature": [],
+          "shipping_information": [],
+          "additional_info": [],
+          "specification": [],
+          "pricing_options": {
+            "variants": [
+              {
+                "id": "b9cccddf-9ddf-455a-bc77-c1be5b3ce48b",
+                "style": "",
+                "capacity": "16 GB",
+                "storage": "512 GB SSD",
+                "cpu_type": "",
+                "cores": null,
+                "condition_status": "refurbished",
+                "condition_message": "Verry Good Condition",
+                "color_name": "",
+                "color_code": "",
+                "price": 1100000
+              }
+            ]
+          },
+          "availability": "in_stock",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "deal_name": "",
+          "deal_start_at": "",
+          "deal_end_at": "",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-04T09:34:39.633Z"
+          },
+          "is_published": true,
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785836213/golden_k_images/products/eUKTNXc5h3joFFYJhIN4/xltgg09loeqmj7ozptnv.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785836214/golden_k_images/products/eUKTNXc5h3joFFYJhIN4/unfeouurkdrmmjykhgys.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785836216/golden_k_images/products/eUKTNXc5h3joFFYJhIN4/btqes27vbp9jrdqmxvcq.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785836218/golden_k_images/products/eUKTNXc5h3joFFYJhIN4/todsi98hetys01lxhfsc.jpg"
+          ],
+          "quantity": 1,
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-10T09:31:16.029Z"
+          }
+        },
+        "foIxhOLzBlKhrZIz8aKG": {
+          "product_name": "Samsung Galaxy A26 5G – 6GB RAM, 128GB Storage, Black",
+          "product_title": "Samsung Galaxy A26 5G – 6GB RAM, 128GB Storage, Black",
+          "product_description": "<p>Samsung Galaxy A26 5G features a vivid 6.7-inch FHD+ Super AMOLED display with a smooth 120Hz refresh rate, an Exynos 1380 octa-core processor, 6GB RAM and 128GB storage. It comes with a 50MP OIS triple-camera system, 13MP selfie camera, 5,000mAh battery, 25W fast charging, 5G connectivity and IP67 water and dust resistance.</p>",
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785494871/golden_k_images/products/rpqzllccfqjxi6afgjkz.png",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785494873/golden_k_images/products/kikrf7bteo48ibnsvk2t.png",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785494876/golden_k_images/products/oxz1dluaqeitdft2oi7r.png"
+          ],
+          "price": 450000,
+          "quantity": 1,
+          "brand_id": "f6a7b8c9-d0e1-4234-f567-89abcdef01234",
+          "colors": [],
+          "feature_option_id": "",
+          "shipping_option_id": "",
+          "additional_info_option_id": "",
+          "specification_option_id": "",
+          "feature": [],
+          "shipping_information": [],
+          "additional_info": [],
+          "specification": [],
+          "availability": "in_stock",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "deal_name": "",
+          "deal_start_at": "",
+          "deal_end_at": "",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-31T10:47:58.008Z"
+          },
+          "is_published": true,
+          "category_id": "ycd6cr4qD0sP9vIjukzG",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-31T10:49:22.431Z"
+          }
+        },
+        "hMbwCl7Lvdvbzqz36plc": {
+          "product_name": "F12 3-Axis Foldable Smartphone Gimbal with AI Tracking and Fill Light",
+          "product_title": "F12 3-Axis Foldable Smartphone Gimbal with AI Tracking and Fill Light",
+          "product_description": "<p>The F12 is a compact 3-axis foldable gimbal designed for smartphones and action cameras. It provides smooth video stabilisation, AI face tracking, a built-in fill light, four operating modes, landscape and portrait switching, fast charging and an integrated mini tripod—ideal for vlogging, livestreaming and content creation.</p>",
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785498813/golden_k_images/products/ytbijcoarzlnujpojaeu.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785498814/golden_k_images/products/mej6cgwrvi5wtg1xah43.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785498815/golden_k_images/products/lxoc2pkt1lxvuqz1sa2y.jpg"
+          ],
+          "price": 200000,
+          "quantity": 3,
+          "brand_id": "",
+          "category_id": "b2c3d4e5-f6a7-4890-b123-456789abcdef0",
+          "is_published": true,
+          "colors": [],
+          "feature_option_id": "",
+          "shipping_option_id": "",
+          "additional_info_option_id": "",
+          "specification_option_id": "",
+          "feature": [],
+          "shipping_information": [],
+          "additional_info": [],
+          "specification": [],
+          "availability": "in_stock",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "deal_name": "",
+          "deal_start_at": "",
+          "deal_end_at": "",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-31T11:53:37.900Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-31T11:53:37.900Z"
+          }
+        },
+        "n1pIHD2AlZJJBQoJFY1v": {
+          "product_name": "MacBook Neo 13-inch (2026) – A18 Pro, 8GB Unified Memory, 256GB SSD – Silver",
+          "product_title": "MacBook Neo 13-inch (2026) – A18 Pro, 8GB Unified Memory, 256GB SSD – Silver",
+          "product_description": "<p>The 13-inch MacBook Neo delivers fast and efficient everyday performance in a lightweight, durable aluminium design. Powered by the Apple A18 Pro chip, it features 8GB unified memory, 256GB SSD storage and a sharp 13-inch Liquid Retina display—ideal for work, study, entertainment and everyday creative tasks.</p>",
+          "price": 1350000,
+          "quantity": 1,
+          "brand_id": "e5f6a7b8-c9d0-4123-e456-789abcdef0123",
+          "category_id": "SAr8UZclm26eQawLbgaG",
+          "is_published": true,
+          "colors": [
+            {
+              "color_name": "Silver",
+              "color_code": "#e8e8e8"
+            }
+          ],
+          "feature_option_id": "",
+          "shipping_option_id": "",
+          "additional_info_option_id": "",
+          "specification_option_id": "",
+          "feature": [],
+          "shipping_information": [],
+          "additional_info": [],
+          "specification": [],
+          "pricing_options": {
+            "variants": [
+              {
+                "id": "a251b42f-9ba1-402e-b800-b667064bebdc",
+                "style": "",
+                "capacity": "8 GB",
+                "storage": "256 GB SSD",
+                "cpu_type": "",
+                "cores": null,
+                "condition_status": "new",
+                "condition_message": "",
+                "color_name": "Silver",
+                "color_code": "#e8e8e8",
+                "price": 1350000
+              }
+            ]
+          },
+          "availability": "in_stock",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "deal_name": "",
+          "deal_start_at": "",
+          "deal_end_at": "",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-10T12:02:02.500Z"
+          },
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786523243/golden_k_images/products/n1pIHD2AlZJJBQoJFY1v/s4otgre4bizpsexp3ry4.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786523244/golden_k_images/products/n1pIHD2AlZJJBQoJFY1v/cfrxnpywg8qyndzsd1rl.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786523245/golden_k_images/products/n1pIHD2AlZJJBQoJFY1v/nluiokmwhdz6qp7rmerp.jpg"
+          ],
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-12T08:27:29.230Z"
+          }
+        },
+        "ppzlDwqI9ZT0g2FUnWZQ": {
+          "product_name": "MacBook Air M2 15-inch – 8GB Unified Memory, 256GB SSD – Silver",
+          "product_title": "MacBook Air M2 15-inch – 8GB Unified Memory, 256GB SSD – Silver",
+          "product_description": "<p>The 2021 MacBook Pro 14-inch combines the powerful Apple M1 Pro chip, 8GB unified memory and a fast 256GB SSD. Its Liquid Retina XDR display, advanced graphics, extensive connectivity and long battery life make it ideal for video editing, graphic design, programming and demanding professional work.</p>",
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785751063/golden_k_images/products/mgg6sroeg4caqo16k48z.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785751064/golden_k_images/products/wccxjauwamaoo82iw1lg.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785751065/golden_k_images/products/ibgsjq7rufwprbfnvtju.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785751066/golden_k_images/products/pmdssh9vhdrpfwpkcdil.jpg"
+          ],
+          "price": 1400000,
+          "quantity": 1,
+          "brand_id": "e5f6a7b8-c9d0-4123-e456-789abcdef0123",
+          "category_id": "SAr8UZclm26eQawLbgaG",
+          "is_published": true,
+          "colors": [],
+          "feature_option_id": "",
+          "shipping_option_id": "",
+          "additional_info_option_id": "",
+          "specification_option_id": "",
+          "feature": [],
+          "shipping_information": [],
+          "additional_info": [],
+          "specification": [],
+          "availability": "in_stock",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "deal_name": "",
+          "deal_start_at": "",
+          "deal_end_at": "",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-03T09:57:48.728Z"
+          },
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-05T12:37:34.110Z"
+          },
+          "pricing_options": {
+            "variants": [
+              {
+                "id": "c62d8db5-fe2f-45f5-8426-faa7b9319991",
+                "style": "",
+                "capacity": "8 GB",
+                "storage": "256 GB SSD",
+                "cpu_type": "",
+                "cores": null,
+                "condition_status": "refurbished",
+                "condition_message": "",
+                "color_name": "",
+                "color_code": "",
+                "price": 1400000
+              }
+            ]
+          }
+        },
+        "qKVLzldxVViyOLxmmJOZ": {
+          "product_description": "<p>The 14-inch MacBook Pro features the powerful Apple M2 Pro chip, 16GB unified memory and a fast 512GB SSD. Its Liquid Retina XDR display, advanced graphics, long battery life and extensive connectivity make it ideal for software development, graphic design, video editing and other demanding professional tasks.</p>",
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785753350/golden_k_images/products/zclb5nmfmujlvj4ol4wm.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785753351/golden_k_images/products/dsmgqu93tqbwxuhkudhw.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785753352/golden_k_images/products/wdivmi3gemtutj5nwvrx.jpg"
+          ],
+          "brand_id": "e5f6a7b8-c9d0-4123-e456-789abcdef0123",
+          "category_id": "SAr8UZclm26eQawLbgaG",
+          "is_published": true,
+          "colors": [],
+          "feature_option_id": "g4dqXbI8QTnKELNmqbga",
+          "shipping_option_id": "HwAXtl8UfTUfbryNGO9q",
+          "additional_info_option_id": "",
+          "specification_option_id": "",
+          "shipping_information": [
+            {
+              "type": "Local shipping",
+              "description": "<p>Less Than 24 Hours</p>"
+            },
+            {
+              "type": "Global shipping",
+              "description": "<p>Less Than Two weeks</p>"
+            }
+          ],
+          "additional_info": [],
+          "specification": [],
+          "availability": "in_stock",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "deal_name": "",
+          "deal_start_at": "",
+          "deal_end_at": "",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-03T10:35:54.418Z"
+          },
+          "feature": [
+            {
+              "icon": "streamline-flex:warranty-badge-highlight-solid",
+              "description": "Quality Tested & Verified"
+            },
+            {
+              "description": "Warranty Included",
+              "icon": "streamline-flex:warranty-badge-highlight-solid"
+            },
+            {
+              "icon": "iconamoon:delivery-fill",
+              "description": "Fast & Reliable Delivery"
+            },
+            {
+              "icon": "hugeicons:payment-01",
+              "description": "Secure Payment Methods"
+            },
+            {
+              "description": "Expert After-Sales Support",
+              "icon": "material-symbols:support-agent"
+            },
+            {
+              "description": "Easy Returns & Exchanges",
+              "icon": "solar:money-bag-linear"
+            }
+          ],
+          "product_name": "MacBook Pro M2 14-inch 16GB Unified Memory, 512GB SSD, Space Gray",
+          "product_title": "MacBook Pro M2 14-inch 16GB Unified Memory, 512GB SSD, Space Gray",
+          "quantity": 1,
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-05T12:36:30.489Z"
+          },
+          "price": 1650000,
+          "pricing_options": {
+            "variants": [
+              {
+                "id": "a5f88714-4cff-4ddd-ad95-675d5a1ebc81",
+                "style": "",
+                "capacity": "16 GB",
+                "storage": "512 GB SSD",
+                "cpu_type": "",
+                "cores": null,
+                "condition_status": "refurbished",
+                "condition_message": "Refurbished and in good condition",
+                "color_name": "",
+                "color_code": "",
+                "price": 1650000
+              }
+            ]
+          }
+        },
+        "rvZLmIQKlyMScpqUcL9h": {
+          "specification_option_id": "",
+          "deal_name": "",
+          "brand_id": "xSDrHOn7giAc3SbWooqV",
+          "shipping_option_id": "",
+          "product_title": "HP 15-daxxx",
+          "category_id": "a1b2c3d4-e5f6-4789-a012-3456789abcde",
+          "additional_info": [],
+          "feature_option_id": "",
+          "price": 380000,
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "product_description": "<p>HP 15-daxxx 15.6'' 10th Gen Core i5-10210U (Turbo Boost up to @4.20GHz) 8GB RAM 256GB NVME SSD Windows 11 Pro</p>",
+          "availability": "in_stock",
+          "specification": [],
+          "additional_info_option_id": "",
+          "feature": [],
+          "colors": [],
+          "shipping_information": [],
+          "deal_end_at": "",
+          "deal_start_at": "",
+          "is_published": true,
+          "product_name": "HP 15-daxxx",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-20T13:15:57.096Z"
+          },
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785409721/golden_k_images/products/rvZLmIQKlyMScpqUcL9h/gnkijahyulhigvszbqmt.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785409722/golden_k_images/products/rvZLmIQKlyMScpqUcL9h/dysrfik0vdzllvy18nub.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785409724/golden_k_images/products/rvZLmIQKlyMScpqUcL9h/kt1yiflgdocnf33myr5j.jpg"
+          ],
+          "quantity": 0,
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-04T10:15:44.833Z"
+          }
+        },
+        "v01sOcAeDHKrrutYiJM8": {
+          "product_name": "iPad Air M3 11-inch 128GB",
+          "product_title": "iPad Air M3 11-inch 128GB",
+          "product_description": "<p>The iPad Air 11-inch with Apple M3 combines powerful performance, a vibrant Liquid Retina display, Apple Intelligence support, advanced 12MP cameras and all-day battery life in a slim, lightweight aluminium design—ideal for work, study, creativity and entertainment.</p>",
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786359532/golden_k_images/products/vnxulo6oarymy6mqpyho.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786359533/golden_k_images/products/b126t2rwp5x8mto6usg5.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786359535/golden_k_images/products/oqgtsarhlii7cjswtrqy.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1786359536/golden_k_images/products/y93mgnwyq07jynocveai.jpg"
+          ],
+          "price": 1200000,
+          "quantity": 1,
+          "brand_id": "e5f6a7b8-c9d0-4123-e456-789abcdef0123",
+          "category_id": "OINhyiD7ygOyBzbvvoRz",
+          "is_published": true,
+          "colors": [],
+          "feature_option_id": "g4dqXbI8QTnKELNmqbga",
+          "shipping_option_id": "HwAXtl8UfTUfbryNGO9q",
+          "additional_info_option_id": "",
+          "specification_option_id": "",
+          "feature": [
+            {
+              "description": "Quality Tested & Verified",
+              "icon": "streamline-flex:warranty-badge-highlight-solid",
+              "icon_link": "",
+              "highlight": false
+            },
+            {
+              "icon": "streamline-flex:warranty-badge-highlight-solid",
+              "description": "Warranty Included",
+              "icon_link": "",
+              "highlight": false
+            },
+            {
+              "description": "Fast & Reliable Delivery",
+              "icon": "iconamoon:delivery-fill",
+              "icon_link": "",
+              "highlight": false
+            },
+            {
+              "icon": "hugeicons:payment-01",
+              "description": "Secure Payment Methods",
+              "icon_link": "",
+              "highlight": false
+            },
+            {
+              "description": "Expert After-Sales Support",
+              "icon": "material-symbols:support-agent",
+              "icon_link": "",
+              "highlight": false
+            },
+            {
+              "description": "Easy Returns & Exchanges",
+              "icon": "solar:money-bag-linear",
+              "icon_link": "",
+              "highlight": false
+            }
+          ],
+          "shipping_information": [
+            {
+              "type": "Local shipping",
+              "description": "<p>Less Than 24 Hours</p>"
+            },
+            {
+              "type": "Global shipping",
+              "description": "<p>Less Than Two weeks</p>"
+            }
+          ],
+          "additional_info": [],
+          "specification": [],
+          "pricing_options": {
+            "variants": [
+              {
+                "id": "291bb8e8-5b51-486d-9e51-ae60d648f06c",
+                "style": "",
+                "capacity": "",
+                "storage": "128 GB SSD",
+                "cpu_type": "",
+                "cores": null,
+                "condition_status": "used",
+                "condition_message": "",
+                "color_name": "",
+                "color_code": "",
+                "price": 1200000
+              }
+            ]
+          },
+          "availability": "in_stock",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "deal_name": "",
+          "deal_start_at": "",
+          "deal_end_at": "",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-10T10:58:58.959Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-10T10:58:58.959Z"
+          }
+        },
+        "xQADXkgVg5SGjCXziu4O": {
+          "product_description": "<p>HP Elitebook 840 G5 14-inch FHD (1920x1080) Business Laptop (Intel Quad-Core i7-8250U, 16GB DDR4 RAM, 512GB SS USB Type-C, HDMI, Windows 11 Pro (Renewed)</p>",
+          "quantity": 5,
+          "brand_id": "xSDrHOn7giAc3SbWooqV",
+          "category_id": "a1b2c3d4-e5f6-4789-a012-3456789abcde",
+          "is_published": true,
+          "feature_option_id": "",
+          "additional_info_option_id": "",
+          "feature": [],
+          "additional_info": [],
+          "availability": "in_stock",
+          "created_by": "aLO5gwgx8UNT8xbkyYGlpP3FvJy2",
+          "deal_name": "",
+          "deal_start_at": "",
+          "deal_end_at": "",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-15T16:53:59.386Z"
+          },
+          "shipping_information": [
+            {
+              "type": "Local shipping",
+              "description": "<p>Less Than 24 Hours</p>"
+            },
+            {
+              "type": "Global shipping",
+              "description": "<p>Less Than Two weeks</p>"
+            }
+          ],
+          "shipping_option_id": "HwAXtl8UfTUfbryNGO9q",
+          "specification_option_id": "2Apc7ZL3zFrWCv61rTvO",
+          "specification": [
+            {
+              "description": "<p>Intel Core i7-8650U (8th Generation)</p>",
+              "type": "Processor (CPU)"
+            },
+            {
+              "type": "Memory (RAM)",
+              "description": "<p>Up to 16GB DDR4-2400 (2 SODIMM slots, upgradable)</p>"
+            },
+            {
+              "description": "<p>Intel UHD Graphics 620</p>",
+              "type": "Graphics (GPU)"
+            },
+            {
+              "type": "Storage",
+              "description": "<p>Up to 512 GB PCIe NVMe M.2 SSD</p>"
+            },
+            {
+              "type": "Display",
+              "description": "<p>14-inch diagonal. Options include: <br>- HD (1366x768) <br>- FHD (1920x1080) IPS, Touch &amp; Non-Touch <br>- 4K UHD (3840x2160)</p>"
+            }
+          ],
+          "price": 380000,
+          "colors": [],
+          "product_name": "HP EliteBook 840 G5",
+          "product_title": "HP EliteBook 840 G5",
+          "product_images": [
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785401821/golden_k_images/products/xQADXkgVg5SGjCXziu4O/lslcb8acc0p02z5oyck1.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785401822/golden_k_images/products/xQADXkgVg5SGjCXziu4O/eyvp33iwrtpqqxz2ei24.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785401824/golden_k_images/products/xQADXkgVg5SGjCXziu4O/rfhxakdc6k8iabw5qwi8.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785401826/golden_k_images/products/xQADXkgVg5SGjCXziu4O/vig3r972xg1xcw764lxx.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785401827/golden_k_images/products/xQADXkgVg5SGjCXziu4O/htpvfzsjcgms5be6gdrg.jpg",
+            "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1785401828/golden_k_images/products/xQADXkgVg5SGjCXziu4O/ou5vq9o6zdr2p8sdm7qe.jpg"
+          ],
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-30T08:58:31.502Z"
+          },
+          "pricing_options": {
+            "variants": [
+              {
+                "id": "18b4e8b0-d924-486a-a957-7545efc1a88f",
+                "style": "",
+                "capacity": "8 GB",
+                "storage": "256 GB SSD",
+                "cpu_type": "i5",
+                "cores": null,
+                "condition_status": "refurbished",
+                "condition_message": "Verry Good Condition!",
+                "color_name": "",
+                "color_code": "",
+                "price": 380000
+              },
+              {
+                "id": "527731b0-b14c-417a-b400-9be1b2e7ffb9",
+                "style": "",
+                "capacity": "16 GB",
+                "storage": "512 GB SSD",
+                "cpu_type": "i7",
+                "cores": null,
+                "condition_status": "refurbished",
+                "condition_message": "",
+                "color_name": "",
+                "color_code": "",
+                "price": 500000
+              }
+            ]
+          }
+        }
+      }
+    },
+    "roles": {
+      "count": 3,
+      "documents": {
+        "2d4f6a8b-1c3e-4f5a-9b7c-3e5f7a9b1c2d": {
+          "name": "STORE_OWNER",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-18T09:14:14.534Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-18T09:14:14.534Z"
+          }
+        },
+        "7e9a1b3c-5d4f-4e8a-9c6b-2a4f6e8d0b1a": {
+          "name": "BUYER",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-18T09:14:14.534Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-18T09:14:14.534Z"
+          }
+        },
+        "8f3c2e1a-9b4d-4c7e-8f2a-1d5e6b7c8a90": {
+          "name": "ADMIN",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-18T09:14:14.534Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-18T09:14:14.534Z"
+          }
+        }
+      }
+    },
+    "settings": {
+      "count": 1,
+      "documents": {
+        "currency": {
+          "display_currency": "USD",
+          "rwf_per_usd": 1473,
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-30T09:23:35.094Z"
+          }
+        }
+      }
+    },
+    "users": {
+      "count": 17,
+      "documents": {
+        "9Z0htkghcEPjptjPv7DraXfSZgj1": {
+          "full_name": "Gordon Muhirwa",
+          "email": "gordonmuhirwa5@gmail.com",
+          "phone_number": "",
+          "gender": "",
+          "address_1": "",
+          "address_2": "",
+          "about": "",
+          "role_ids": [
+            "7e9a1b3c-5d4f-4e8a-9c6b-2a4f6e8d0b1a"
+          ],
+          "avatar_url": "",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-03T17:09:11.527Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-03T17:09:11.527Z"
+          }
+        },
+        "EyaznjOcpWOuVYnXipXKfALAoGw2": {
+          "full_name": "JEAN BOSCO AKIMANIMPAYE",
+          "email": "akimanimpayejeanbosco1993@gmail.com",
+          "address_1": "",
+          "address_2": "",
+          "about": "",
+          "role_ids": [
+            "7e9a1b3c-5d4f-4e8a-9c6b-2a4f6e8d0b1a"
+          ],
+          "avatar_url": "",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-05T22:27:11.193Z"
+          },
+          "phone_number": "+250783664486",
+          "gender": "male",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-05T22:29:15.111Z"
+          }
+        },
+        "FQov57ejYUOhwMWoFZYwa4R59tv2": {
+          "full_name": "Productive Quality",
+          "email": "proqualityfirst@gmail.com",
+          "phone_number": "",
+          "gender": "",
+          "address_1": "",
+          "address_2": "",
+          "about": "",
+          "role_ids": [
+            "7e9a1b3c-5d4f-4e8a-9c6b-2a4f6e8d0b1a"
+          ],
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-05-23T07:57:50.887Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-05-23T07:57:50.887Z"
+          }
+        },
+        "Hk26crto2fcHLPmj0tKriVhC4ru2": {
+          "full_name": "Pacifique MUHIRE",
+          "email": "mpacificdev@gmail.com",
+          "phone_number": "",
+          "gender": "",
+          "address_1": "",
+          "address_2": "",
+          "about": "",
+          "role_ids": [
+            "7e9a1b3c-5d4f-4e8a-9c6b-2a4f6e8d0b1a"
+          ],
+          "avatar_url": "",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-03T17:16:39.253Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-03T17:16:39.253Z"
+          }
+        },
+        "OugTX3ny0cbXScLgLQp0bso0Yyo1": {
+          "full_name": "Aphrodis Garrix",
+          "email": "aphrogarrix10+1@gmail.com",
+          "phone_number": "",
+          "gender": "",
+          "address_1": "",
+          "address_2": "",
+          "about": "",
+          "role_ids": [
+            "7e9a1b3c-5d4f-4e8a-9c6b-2a4f6e8d0b1a"
+          ],
+          "avatar_url": "",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-11T13:17:57.238Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-11T13:17:57.238Z"
+          }
+        },
+        "P9ILcED80MVDWIu9R053QqvUbWJ2": {
+          "full_name": "Admin",
+          "gender": "",
+          "address_1": "",
+          "address_2": "",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-05-22T09:04:24.113Z"
+          },
+          "email": "admin@goldenktechnologie.com",
+          "role_ids": [
+            "8f3c2e1a-9b4d-4c7e-8f2a-1d5e6b7c8a90"
+          ],
+          "avatar_url": "https://res.cloudinary.com/dkdzqcq5y/image/upload/v1781037462/golden_k_images/users/P9ILcED80MVDWIu9R053QqvUbWJ2/exnfsnru5rybj6ll6p35.jpg",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-09T20:38:08.627Z"
+          },
+          "about": "",
+          "phone_number": "+250789438437"
+        },
+        "RSIT0xrhWgYnSNaL4JPOVFfaPSu2": {
+          "full_name": "Henav",
+          "email": "henav79712@okcpress.com",
+          "phone_number": "",
+          "gender": "",
+          "address_1": "",
+          "address_2": "",
+          "about": "",
+          "role_ids": [],
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-05-22T09:38:39.415Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-05-22T09:38:39.415Z"
+          }
+        },
+        "YsNtl10uBzQp1WHcqNDvStlKz9t2": {
+          "full_name": "NIYONKURU Emmanuel",
+          "email": "moscowhustly11@gmail.com",
+          "phone_number": "",
+          "gender": "",
+          "address_1": "",
+          "address_2": "",
+          "about": "",
+          "role_ids": [
+            "7e9a1b3c-5d4f-4e8a-9c6b-2a4f6e8d0b1a"
+          ],
+          "avatar_url": "",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-16T21:04:22.748Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-08-16T21:04:22.748Z"
+          }
+        },
+        "aLO5gwgx8UNT8xbkyYGlpP3FvJy2": {
+          "full_name": "Admin",
+          "gender": "",
+          "address_1": "",
+          "address_2": "",
+          "about": "System administrator",
+          "phone_number": "",
+          "email": "admin@goldenktechnology.com",
+          "role_ids": [
+            "8f3c2e1a-9b4d-4c7e-8f2a-1d5e6b7c8a90"
+          ],
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-18T09:14:15.977Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-18T09:14:15.977Z"
+          }
+        },
+        "gArek4tzcnZ7Oj7a0UdgNXcSMKg1": {
+          "role_ids": [
+            "7e9a1b3c-5d4f-4e8a-9c6b-2a4f6e8d0b1a"
+          ],
+          "about": "",
+          "address_2": "",
+          "address_1": "",
+          "email": "chadrackdushime@gmail.com",
+          "full_name": "Dushime chadrack",
+          "avatar_url": "",
+          "gender": "",
+          "phone_number": "",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-25T15:06:40.681Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-25T15:06:40.681Z"
+          }
+        },
+        "gvL7ewD30HeyRaWZnEksemSzUvL2": {
+          "full_name": "Furaha Joseph",
+          "email": "furaha.kaa@gmail.com",
+          "phone_number": "",
+          "gender": "",
+          "address_1": "",
+          "address_2": "",
+          "about": "",
+          "role_ids": [
+            "7e9a1b3c-5d4f-4e8a-9c6b-2a4f6e8d0b1a"
+          ],
+          "avatar_url": "",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-05T09:50:15.359Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-05T09:50:15.359Z"
+          }
+        },
+        "jc9qvxyVIlWreQW49VwPHdHD3Qk1": {
+          "full_name": "Mugambage",
+          "gender": "",
+          "address_1": "",
+          "address_2": "",
+          "about": "",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-05-25T19:49:43.399Z"
+          },
+          "phone_number": "0789438437",
+          "email": "bevoxa2566@okcpress.com",
+          "role_ids": [
+            "2d4f6a8b-1c3e-4f5a-9b7c-3e5f7a9b1c2d"
+          ],
+          "credentials_expire_at": "2026-05-28T19:53:40.959Z",
+          "store_id": "VqVp5PVC0G1XAQm8AvLz",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-05-25T19:53:43.498Z"
+          }
+        },
+        "ojCFep4jMRRflhskNJJTOcq6nyM2": {
+          "full_name": "Productive Quality",
+          "email": "henav7971@okcpress.com",
+          "phone_number": "",
+          "gender": "",
+          "address_1": "",
+          "address_2": "",
+          "about": "",
+          "role_ids": [
+            "7e9a1b3c-5d4f-4e8a-9c6b-2a4f6e8d0b1a"
+          ],
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-05-23T07:27:49.034Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-05-23T07:27:49.034Z"
+          }
+        },
+        "pilVp5JtgIaulDzsh7jUOHsajdI2": {
+          "full_name": "shami ganza sarkis",
+          "email": "shamiganzasarkis1@gmail.com",
+          "phone_number": "",
+          "gender": "",
+          "address_1": "",
+          "address_2": "",
+          "about": "",
+          "role_ids": [
+            "7e9a1b3c-5d4f-4e8a-9c6b-2a4f6e8d0b1a"
+          ],
+          "avatar_url": "",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-14T19:49:41.782Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-07-14T19:49:41.782Z"
+          }
+        },
+        "sTcTavXKgQgCdXXBAZKRl8cdNBC3": {
+          "full_name": "UWINEZA Aphrodis",
+          "email": "aphrodisu2019@gmail.com",
+          "phone_number": "",
+          "gender": "",
+          "address_1": "",
+          "address_2": "",
+          "about": "",
+          "avatar_url": "",
+          "role_ids": [
+            "7e9a1b3c-5d4f-4e8a-9c6b-2a4f6e8d0b1a"
+          ],
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-17T16:12:40.731Z"
+          },
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-17T16:12:40.731Z"
+          }
+        },
+        "yc6NluPyZFOC4MUDrsAurf3of5l2": {
+          "full_name": "garrix Me",
+          "email": "garrixme@gmail.com",
+          "address_1": "",
+          "address_2": "",
+          "role_ids": [
+            "7e9a1b3c-5d4f-4e8a-9c6b-2a4f6e8d0b1a"
+          ],
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-02T21:58:39.481Z"
+          },
+          "gender": "female",
+          "about": "<p>I like shopping </p><hr><p></p>",
+          "phone_number": "+250789438437",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-02T21:59:43.592Z"
+          }
+        },
+        "zILZ4qP28qXt4BXCtu0apGJRKR62": {
+          "credentials_expire_at": "2026-06-04T14:20:00.469Z",
+          "store_id": "wnJferdDlL61pf10zZcp",
+          "full_name": "Mugisha",
+          "gender": "",
+          "updated_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-01T14:20:03.197Z"
+          },
+          "address_1": "",
+          "address_2": "",
+          "about": "",
+          "created_at": {
+            "__type": "Timestamp",
+            "iso": "2026-06-01T14:20:03.197Z"
+          },
+          "phone_number": "07898983822",
+          "email": "nelom58953@matkind.com",
+          "role_ids": [
+            "2d4f6a8b-1c3e-4f5a-9b7c-3e5f7a9b1c2d"
+          ]
+        }
+      }
+    }
+  }
+}
